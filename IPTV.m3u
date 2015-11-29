@@ -307,50 +307,50 @@ http://www.deadlyblogger.com/NewRelease/legomovie2014.mp4
 #EXTINF:0,#EXTINF:-1, Turbo
 http://www.deadlyblogger.com/NewRelease/turbo.mp4
 
-#EXTINF:0, [COLOR gold][B](::: RADIO :::)[/B][/COLOR]
+#EXTINF:0, [COLOR gold][B](::: radio=true :::)[/B][/COLOR]
 http://50.7.96.210:8285
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="IKIM FM"  group-title="Malaysia" radio,IKIM FM
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="IKIM FM"  group-title="Malaysia" radio=true,IKIM FM
 http://50.7.96.210:8285/;stream.mp3
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/era.png" tvg-name="ERA FM"  group-title="Malaysia" radio,ERA FM
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/era.png" tvg-name="ERA FM"  group-title="Malaysia" radio=true,ERA FM
 http://astro2.rastream.com/era?type=.flv
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HOT FM"  group-title="Malaysia" radio,HOT FM
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HOT FM"  group-title="Malaysia" radio=true,HOT FM
 http://2343.live.streamtheworld.com/HOTFMAAC
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HOT FM KELATE"  group-title="Malaysia" radio,HOT FM KELATE
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HOT FM KELATE"  group-title="Malaysia" radio=true,HOT FM KELATE
 http://2633.live.streamtheworld.com/HOTFMKELATEAAC
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HOT FM T'Ganu"  group-title="Malaysia" radio,HOT FM T'Ganu
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HOT FM T'Ganu"  group-title="Malaysia" radio=true,HOT FM T'Ganu
 http://2173.live.streamtheworld.com/HOTFMTGANUAAC
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SURIA FM"  group-title="Malaysia" radio,SURIA FM
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SURIA FM"  group-title="Malaysia" radio=true,SURIA FM
 http://starrfm.rastream.com/starrfm-suria?type=.flv&_=0.27098811650648713
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/thr.png" tvg-name="THR GEGAR"  group-title="Malaysia" radio,THR GEGAR
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/thr.png" tvg-name="THR GEGAR"  group-title="Malaysia" radio=true,THR GEGAR
 http://astro3.rastream.com/gegar?type=.flv&_=0.7412667996250093
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SINAR FM"  group-title="Malaysia" radio,SINAR FM
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SINAR FM"  group-title="Malaysia" radio=true,SINAR FM
 http://astro2.rastream.com/sinar?type=.flv
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/xfm.png" tvg-name="XFRESH FM"  group-title="Malaysia" radio,XFRESH FM
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/xfm.png" tvg-name="XFRESH FM"  group-title="Malaysia" radio=true,XFRESH FM
 http://audri.rastream.com/amp-xfm_audri?type=.flv
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Bapakku FM"  group-title="Malaysia" radio,Bapakku FM
-http://radio.bapakku.fm:8000
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Bapakku FM"  group-title="Malaysia" radio=true,Bapakku FM
+http://radio=true.bapakku.fm:8000
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/hitz.png" tvg-name="HITZ FM"  group-title="Malaysia" radio,HITZ FM
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/hitz.png" tvg-name="HITZ FM"  group-title="Malaysia" radio=true,HITZ FM
 http://astro1.rastream.com/hitz?type=.flv
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/mix.png" tvg-name="MIX FM"  group-title="Malaysia" radio,MIX FM
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/mix.png" tvg-name="MIX FM"  group-title="Malaysia" radio=true,MIX FM
 http://astro2.rastream.com/mix?type=.flv
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FLY FM"  group-title="Malaysia" radio,FLY FM
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FLY FM"  group-title="Malaysia" radio=true,FLY FM
 http://2283.live.streamtheworld.com/FLYFM_SC
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RED FM"  group-title="Malaysia" radio,RED FM
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RED FM"  group-title="Malaysia" radio=true,RED FM
 http://starrfm.rastream.com/starrfm-redfm?type=.flv
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/lite.png" tvg-name="LITE FM"  group-title="Malaysia" radio,LITE FM
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/lite.png" tvg-name="LITE FM"  group-title="Malaysia" radio=true,LITE FM
 http://astro1.rastream.com/lite?type=.flv
