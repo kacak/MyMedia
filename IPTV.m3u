@@ -24,10 +24,10 @@ http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:r
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/galaksi.png" tvg-name="MUZIK AKTIF"  group-title="Malaysia",MUZIK AKTIF
 http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch004.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1448939779&myTokenPrefixhash=WI6NIvXVc7FDAyC-y_qT_7Nf8U4bHzQ-XzSu-OlFeRc=
 
-#EXTINF:0, tvg-logo="Logo N/A" tvg-id="TV Al-Hijrah"  group-title="Group N/A",TV Al-Hijrah
+#EXTINF:0, tvg-id="Al-Hijrah" tvg-logo="Logo N/A"  group-title="Group N/A",TV Al-Hijrah
 http://d2f9tqsihrp4sc.cloudfront.net/livecf/smil:tvah_hypptv.smil/playlist.m3u8
 
-#EXTINF:0, tvg-logo="Logo N/A" tvg-id="Astro RiA"  group-title="Group N/A",RIA
+#EXTINF:0, tvg-id="Astro Ria" tvg-logo="Logo N/A"   group-title="Group N/A",RIA
 http://www.layarku.tv/media/arenav6.m3u8
 
 #EXTINF:0, tvg-logo="Logo N/A" tvg-id="KBS World"  group-title="Group N/A",KBS WORLD
