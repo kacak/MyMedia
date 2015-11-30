@@ -27,14 +27,8 @@ http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:r
 #EXTINF:0, tvg-id="Al-Hijrah" tvg-logo="Logo N/A" tvg-name="TV Al-Hijrah"  group-title="Group N/A",TV Al-Hijrah
 http://d2f9tqsihrp4sc.cloudfront.net/livecf/smil:tvah_hypptv.smil/playlist.m3u8
 
-#EXTINF:0, tvg-id="Astro Ria" tvg-logo="Logo N/A" tvg-name="RIA"  group-title="Group N/A",RIA
-http://www.layarku.tv/media/arenav6.m3u8
-
 #EXTINF:0, tvg-id="KBS World" tvg-logo="Logo N/A" tvg-name="KBS WORLD"  group-title="Group N/A",KBS WORLD
 rtmp://118.97.183.196/jhos//kbs
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Arena"  group-title="Group N/A",Arena
-http://penang.layarku.tv/edge/149_330_live/chunklist_w52914436.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Awani"  group-title="Group N/A",Awani
 http://awaniioslive-i.akamaihd.net/hls/live/207096-b/awaniIOSLiveStream@207096/awani_stream.m3u8
@@ -114,17 +108,8 @@ http://123.108.164.71/etv2sb/phd15/lihattv.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR aquamarine][B]-==DOCUMENTARY=--)[/B][/COLOR]"  group-title="Group N/A",[COLOR aquamarine][B]-==DOCUMENTARY=--)[/B][/COLOR]
 http://50.7.96.210:8285
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Discovery UK"  group-title="Group N/A",Discovery UK
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/11.m3u8
-
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Nat Geo 2"  group-title="Group N/A",Nat Geo 2
 http://alturl.com/zbw8j
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Discovery"  group-title="Group N/A",Discovery
-http://fr456.edem.tv/iptv/LZ3NMTRTBEN8ET/140/index.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Cooking Channel"  group-title="Group N/A",Cooking Channel
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/10.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR springgreen][B]-==FAMILY==-)[/B][/COLOR]"  group-title="Group N/A",[COLOR springgreen][B]-==FAMILY==-)[/B][/COLOR]
 http://50.7.96.210:8285
@@ -147,29 +132,17 @@ http://123.108.164.71/etv2sb/phd743/lihattv.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DRAMA WORLD"  group-title="Group N/A",DRAMA WORLD
 http://123.108.164.71/etv2sb/phd505/lihattv.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox Crime"  group-title="Group N/A",Fox Crime
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Warner HD"  group-title="Group N/A",Fox Crime
 http://103.245.167.28/tot/5028f7ff1d1b4d5f8189690233364737.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Universal"  group-title="Group N/A",Universal
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox Crime HD"  group-title="Group N/A",Universal
 http://103.245.167.28/tot/a7105ed1bb0a44bba1f4f71f2352b892.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Warner"  group-title="Group N/A",Warner
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="KIX HD"  group-title="Group N/A",Warner
 http://103.245.167.28/tot/06e717f5ec0c4657a8c76c4dfcf9449b.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Syfy"  group-title="Group N/A",Syfy
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox Crime"  group-title="Group N/A",Syfy
 http://103.245.167.28/tot/71f197de056e499a85265c03b44bdab1.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK: Sky Movies SciFi"  group-title="Group N/A",UK: Sky Movies SciFi
-http://top-iptv.zapto.org:8000/live/adem/adem/708.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK: Sky Movies Family HD"  group-title="Group N/A",UK: Sky Movies Family HD
-http://top-iptv.zapto.org:8000/live/adem/adem/707.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK: SKY Movies Disney HD"  group-title="Group N/A",UK: SKY Movies Disney HD
-http://top-iptv.zapto.org:8000/live/adem/adem/648.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK: Sky Atlantic HD"  group-title="Group N/A",UK: Sky Atlantic HD
-http://top-iptv.zapto.org:8000/live/adem/adem/753.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR cyan][B]-==MUSIC=--[/B][/COLOR]"  group-title="Group N/A",[COLOR cyan][B]-==MUSIC=--[/B][/COLOR]
 http://50.7.96.210:8285
@@ -209,39 +182,6 @@ http://erol74y7la.servep2p.com/mHyifxGiDv/assp3/playlist.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SuperSport 4"  group-title="Group N/A",SuperSport 4
 http://erol74y7la.servep2p.com/mHyifxGiDv/assp4/playlist.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK: BT-Sport 1"  group-title="Group N/A",UK: BT-Sport 1
-http://top-iptv.zapto.org:8000/live/adem/adem/550.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK: BT-Sport 2"  group-title="Group N/A",UK: BT-Sport 2
-http://top-iptv.zapto.org:8000/live/adem/adem/549.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="beIN_SPORTS_HD1 FR"  group-title="Group N/A",beIN_SPORTS_HD1 FR
-http://2.109.65.138/masa/tun3713.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="beIN_SPORTS_HD2 FR"  group-title="Group N/A",beIN_SPORTS_HD2 FR
-http://2.109.65.138/masa/tun3714.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="beIN_SPORTS_HD3 FR"  group-title="Group N/A",beIN_SPORTS_HD3 FR
-http://2.109.65.138/masa/tun3715.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK: Sky Sports 1 HD"  group-title="Group N/A",UK: Sky Sports 1 HD
-http://top-iptv.zapto.org:8000/live/adem/adem/536.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK: Sky Sports 2 HD"  group-title="Group N/A",UK: Sky Sports 2 HD
-http://top-iptv.zapto.org:8000/live/adem/adem/535.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK: Sky Sports 3 HD"  group-title="Group N/A",UK: Sky Sports 3 HD
-http://top-iptv.zapto.org:8000/live/adem/adem/534.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK: Sky Sports 4 HD"  group-title="Group N/A",UK: Sky Sports 4 HD
-http://top-iptv.zapto.org:8000/live/adem/adem/533.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK: Sky Sports 5 HD"  group-title="Group N/A",UK: Sky Sports 5 HD
-http://top-iptv.zapto.org:8000/live/adem/adem/532.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK: Sky F1 HD"  group-title="Group N/A",UK: Sky F1 HD
-http://top-iptv.zapto.org:8000/live/adem/adem/542.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sport Time TV2"  group-title="Group N/A",Sport Time TV2
 http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel2_1200.mp4.m3u8
