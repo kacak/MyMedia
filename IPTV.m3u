@@ -18,7 +18,7 @@ http://ntv7liveios-i.akamaihd.net/hls/live/205902/ios/ntv7live/master.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://dev.mediaprima.com.my/wp-content/uploads/2014/05/8tv.png" tvg-name="8TV"  group-title="Malaysia",8TV
 http://8tvliveios-i.akamaihd.net/hls/live/205901/ios/8tvlive/master.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://dev.mediaprima.com.my/wp-content/uploads/2014/05/tv9.png" tvg-name="TV9"  group-title="Malaysia",TV9
+#EXTINF:0, tvg-id="TV 9" tvg-logo="http://dev.mediaprima.com.my/wp-content/uploads/2014/05/tv9.png" tvg-name="TV 9"  group-title="Malaysia",TV9
 http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/tvi.png" tvg-name="TVi"  group-title="Malaysia",TVi
