@@ -360,10 +360,10 @@ http://astro1.rastream.com/hitz?type=.flv
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/mix.png" tvg-name="MIX FM"  group-title="Radio" radio=true,MIX FM
 http://astro2.rastream.com/mix?type=.flv
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://dev.mediaprima.com.my/wp-content/uploads/2014/06/fly-fm.png" tvg-name="FLY FM"  group-title="Radio"radio=true,FLY FM
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://dev.mediaprima.com.my/wp-content/uploads/2014/06/fly-fm.png" tvg-name="FLY FM"  group-title="Radio" radio=true,FLY FM
 http://2283.live.streamtheworld.com/FLYFM_SC
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RED FM"  group-title="Radio",RED FM
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RED FM"  group-title="Radio" radio=true,RED FM
 http://starrfm.rastream.com/starrfm-redfm?type=.flv
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/lite.png" tvg-name="LITE FM"  group-title="Radio" radio=true,LITE FM
