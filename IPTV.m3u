@@ -1,48 +1,42 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="tv9.png" tvg-logo="http://dev.mediaprima.com.my/wp-content/uploads/2014/05/tv9.png" group-title="TVMALAYSIA",TV9 MALAYSIA
-http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master.m3u8
-
-#EXTINF:0, tvg-id="TV 1" tvg-logo="http://myiptv.site40.net/logos/tv1.png"  group-title="Malaysia",TV1
+#EXTINF:0, tvg-name="TV 1" tvg-logo="http://myiptv.site40.net/logos/tv1.png"  group-title="Malaysia",TV1
 http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch001.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1448939696&myTokenPrefixhash=c5G97gQGlgEzwvgNSqWjYwROhBJ5JHpNcNvfxZt-uJI=
 
-#EXTINF:0, tvg-logo="http://myiptv.site40.net/logos/tv2.png" group-title="Malaysia",TV2
+#EXTINF:0, tvg-name="TV 2" tvg-logo="http://myiptv.site40.net/logos/tv2.png" group-title="Malaysia",TV2
 http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch002.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1448939724&myTokenPrefixhash=rwxGaG22XxS3G7syML4OZTTqUA8sqCcPAYaeAGryMQY=
 
-#EXTINF:0, tvg-logo="http://dev.mediaprima.com.my/wp-content/uploads/2014/05/tv3.png" group-title="Malaysia",TV3
+#EXTINF:0, tvg-name="TV 3" tvg-logo="http://dev.mediaprima.com.my/wp-content/uploads/2014/05/tv3.png" group-title="Malaysia",TV3
 http://tv3liveios-i.akamaihd.net/hls/live/205900/ios/tv3live/master.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://dev.mediaprima.com.my/wp-content/uploads/2014/05/ntv7.png" tvg-name="NTV7"  group-title="Malaysia",NTV7
+#EXTINF:0, tvg-name="NTV7" tvg-logo="http://dev.mediaprima.com.my/wp-content/uploads/2014/05/ntv7.png" tvg-name="NTV7"  group-title="Malaysia",NTV7
 http://ntv7liveios-i.akamaihd.net/hls/live/205902/ios/ntv7live/master.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://dev.mediaprima.com.my/wp-content/uploads/2014/05/8tv.png" tvg-name="8TV"  group-title="Malaysia",8TV
+#EXTINF:0, tvg-name="8TV" tvg-logo="http://dev.mediaprima.com.my/wp-content/uploads/2014/05/8tv.png" tvg-name="8TV"  group-title="Malaysia",8TV
 http://8tvliveios-i.akamaihd.net/hls/live/205901/ios/8tvlive/master.m3u8
 
-#EXTINF:0, tvg-id="TV 9" tvg-logo="http://dev.mediaprima.com.my/wp-content/uploads/2014/05/tv9.png" tvg-name="TV 9"  group-title="Malaysia",TV9
+#EXTINF:0, tvg-name="TV 9" tvg-logo="http://dev.mediaprima.com.my/wp-content/uploads/2014/05/tv9.png" group-title="Malaysia",TV9
 http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/tvi.png" tvg-name="TVi"  group-title="Malaysia",TVi
+#EXTINF:0, tvg-name="TVi" tvg-logo="http://myiptv.site40.net/logos/tvi.png" tvg-name="TVi"  group-title="Malaysia",TVi
 http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch003.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1448939766&myTokenPrefixhash=fyc20aMWYk7G-wIkXlKAJsAYNQwlWuNLi8evdcqgZP4=
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/galaksi.png" tvg-name="MUZIK AKTIF"  group-title="Malaysia",MUZIK AKTIF
+#EXTINF:0, tvg-name="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/galaksi.png" tvg-name="MUZIK AKTIF"  group-title="Malaysia",MUZIK AKTIF
 http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch004.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1448939779&myTokenPrefixhash=WI6NIvXVc7FDAyC-y_qT_7Nf8U4bHzQ-XzSu-OlFeRc=
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV Al-Hijrah"  group-title="Group N/A",TV Al-Hijrah
+#EXTINF:0, tvg-logo="Logo N/A" tvg-name="TV Al-Hijrah"  group-title="Group N/A",TV Al-Hijrah
 http://d2f9tqsihrp4sc.cloudfront.net/livecf/smil:tvah_hypptv.smil/playlist.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RIA"  group-title="Group N/A",RIA
+#EXTINF:0, tvg-logo="Logo N/A" tvg-name="Astro RiA"  group-title="Group N/A",RIA
 http://www.layarku.tv/media/arenav6.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="KBS WORLD"  group-title="Group N/A",KBS WORLD
+#EXTINF:0, tvg-logo="Logo N/A" tvg-name="KBS World"  group-title="Group N/A",KBS WORLD
 rtmp://118.97.183.196/jhos//kbs
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Arena"  group-title="Group N/A",Arena
 http://penang.layarku.tv/edge/149_330_live/chunklist_w52914436.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Awani"  group-title="Group N/A",Awani
-http://playback01.aotg-video.astro.com.my/AOTGHLS/master_AWANI.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Awani -backup-"  group-title="Group N/A",Awani -backup-
 http://awaniioslive-i.akamaihd.net/hls/live/207096-b/awaniIOSLiveStream@207096/awani_stream.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Bernama"  group-title="Group N/A",Bernama
