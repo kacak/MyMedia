@@ -40,6 +40,18 @@
     <display-name lang="en">KBS World</display-name>
     <url>http://www.astro.com.my</url>
   </channel>
+  <channel id="Sinar FM">
+    <display-name lang="en">TVi</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="ERA">
+    <display-name lang="en">Al Hijrah</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="hitz.fm">
+    <display-name lang="en">Astro Ria</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
   <programme start="20151130000000 +0800" stop="20151130003000 +0800" channel="TV 1">
     <title lang="en">Nasional 12</title>
     <desc lang="en">Ikuti berita yang memaparkan perkembangan terkini dan semasa termasuk berita ekonomi dan kewangan.(c)</desc>
@@ -1334,20 +1346,11 @@
       <value>1</value>
     </rating>
   </programme>
-  <programme start="20151130230000 +0800" stop="20151201000000 +0800" channel="NTV7">
+  <programme start="20151130230000 +0800" stop="20151201003000 +0800" channel="NTV7">
     <title lang="en">Triumph In The Skies II</title>
     <desc lang="en">A grieving pilot who seeks solace in the U.K meets a heartbroken student pilot who convinces him to join Hong Kong's Skylette Airlines.(c)</desc>
     <category lang="en">TV Shows</category>
     <category lang="en">Drama</category>
-    <rating>
-      <value>1</value>
-    </rating>
-  </programme>
-  <programme start="20151201000000 +0800" stop="20151201003000 +0800" channel="NTV7">
-    <title lang="en">Global Watch</title>
-    <desc lang="en">The day's international news bulletin comes to you in a brand new midnight slot, skewed toward our Chinese viewers.(c)</desc>
-    <category lang="en">News</category>
-    <category lang="en">Current Affairs / General</category>
     <rating>
       <value>1</value>
     </rating>
@@ -3104,29 +3107,11 @@
       <value>1</value>
     </rating>
   </programme>
-  <programme start="20151201230000 +0800" stop="20151201233000 +0800" channel="8TV">
+  <programme start="20151201230000 +0800" stop="20151202001500 +0800" channel="8TV">
     <title lang="en">Drew Carey's Improv-A-Ganza</title>
     <desc lang="en">This hilarious show requires performers to act in improvisational comedy sketches in front of a live audience, based on audience suggestions &amp; participation.(c)</desc>
     <category lang="en">TV Shows</category>
     <category lang="en">TV Shows (General)</category>
-    <rating>
-      <value>1</value>
-    </rating>
-  </programme>
-  <programme start="20151201233000 +0800" stop="20151201234500 +0800" channel="8TV">
-    <title lang="en">8TV Quickie</title>
-    <desc lang="en">Find out what's on 8TV tonight, the fun way with our 2 zany hosts. Call in &amp; have your say, win something, take a vote or just plain chill out with us.(c)</desc>
-    <category lang="en">TV Shows</category>
-    <category lang="en">TV Shows (General)</category>
-    <rating>
-      <value>1</value>
-    </rating>
-  </programme>
-  <programme start="20151201234500 +0800" stop="20151202001500 +0800" channel="8TV">
-    <title lang="en">Kan Cheong Kitchen</title>
-    <desc lang="en">A culinary-themed game show. Kan-cheong means nervous, which describes the tense, hustled atmosphere - contestants deficient of cooking skills subjecting themselves to yelling.(c)</desc>
-    <category lang="en">TV Shows</category>
-    <category lang="en">Game Show</category>
     <rating>
       <value>1</value>
     </rating>
@@ -3145,6 +3130,16 @@
     <desc lang="en">America's Got Talent returns for the eighth series in the search for the hottest variety and novelty acts from across the US.(c)</desc>
     <category lang="en">TV Shows</category>
     <category lang="en">TV Shows (General)</category>
+    <rating>
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20151130000000 +0800" stop="20151130003000 +0800" channel="TVi">
+    <title lang="en">Kafe Ilmu</title>
+    <desc lang="en">Rancangan yang membicarakan topik-topik motivasi yang menarik secara santai dan juga khas untuk remaja.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Series</category>
+    <category lang="en">General</category>
     <rating>
       <value>1</value>
     </rating>
@@ -5691,6 +5686,1395 @@
     <category lang="en">Current Affairs / General</category>
     <rating>
       <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20151130000000 +0800" stop="20151130010000 +0800" channel="Sinar FM">
+    <title lang="en">Missing in Alaska Ep05</title>
+    <desc lang="en">Sightings of small human-like figures have coincided with missing persons reports within the Alaska Triangle. Could there be a tribe of vicious, carnivorous gnomes roaming the state's untamed interior?.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151130010000 +0800" stop="20151130020000 +0800" channel="Sinar FM">
+    <title lang="en">The Pickers S7 Ep136</title>
+    <desc lang="en">At a California garage, Mike goes nuts for a must-have retro boat and falls for a micro BMW that could be worth some serious coin. Down the road, the guys pay a return visit to a totally rad radiator shop.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151130020000 +0800" stop="20151130030000 +0800" channel="Sinar FM">
+    <title lang="en">Forged in Fire Ep02</title>
+    <desc lang="en">The 4 bladesmiths struggle to create a special Japanese hardening technique on their signature blades. After a difficult first round of testing, only 2 will remain to forge the legendary Crusader sword.(n)</desc>
+    <category lang="en">TV Shows</category>
+    <category lang="en">Series</category>
+    <category lang="en">Reality Show</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151130030000 +0800" stop="20151130040000 +0800" channel="Sinar FM">
+    <title lang="en">Sultan of Johor Ep02</title>
+    <desc lang="en">The Sultan of Johor wants to provide a spectacle the first royal coronation in over half-a-century. Between his duties as father and ruler, can he give his people the celebration they deserve?.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151130040000 +0800" stop="20151130043000 +0800" channel="Sinar FM">
+    <title lang="en">Storage Wars: Canada S2 Ep10</title>
+    <desc lang="en">Tensions are still running high between Roy and Ursula at an auction in Thornhill. Roy brings his dog for support, while Ursula does her best to ignore the S.O.B. and B.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151130043000 +0800" stop="20151130050000 +0800" channel="Sinar FM">
+    <title lang="en">Storage Wars: Canada S2 Ep09</title>
+    <desc lang="en">Ursula hopes her pet chinchilla will bring her luck at an auction in East Gwillimbury, but little Monty has ideas of his own. Rick and Cindy get into watersports, Paul and Bogart make a virtue of chastity.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151130050000 +0800" stop="20151130053000 +0800" channel="Sinar FM">
+    <title lang="en">Storage Wars: Texas S4 Ep40</title>
+    <desc lang="en">The buyers travel to the classic Texas town of Waxahachie. Moe and Mary meet Moe's match in wood expertise. Jenny Grumbles finds an item that could make her think like a man.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151130053000 +0800" stop="20151130060000 +0800" channel="Sinar FM">
+    <title lang="en">Storage Wars: Texas S4 Ep41</title>
+    <desc lang="en">The buyers travel to the tony town of Las Colinas, where they hope mega mansions mean luxurious lockers. Hoping to assert herself, Mary experiments with new bidding calls.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151130060000 +0800" stop="20151130070000 +0800" channel="Sinar FM">
+    <title lang="en">Sultan of Johor Ep02</title>
+    <desc lang="en">The Sultan of Johor wants to provide a spectacle the first royal coronation in over half-a-century. Between his duties as father and ruler, can he give his people the celebration they deserve?.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151130070000 +0800" stop="20151130080000 +0800" channel="Sinar FM">
+    <title lang="en">Forged in Fire Ep02</title>
+    <desc lang="en">The 4 bladesmiths struggle to create a special Japanese hardening technique on their signature blades. After a difficult first round of testing, only 2 will remain to forge the legendary Crusader sword.(n)</desc>
+    <category lang="en">TV Shows</category>
+    <category lang="en">Series</category>
+    <category lang="en">Reality Show</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151130080000 +0800" stop="20151130083000 +0800" channel="Sinar FM">
+    <title lang="en">Storage Wars: Texas S4 Ep41</title>
+    <desc lang="en">The buyers travel to the tony town of Las Colinas, where they hope mega mansions mean luxurious lockers. Hoping to assert herself, Mary experiments with new bidding calls.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151130083000 +0800" stop="20151130090000 +0800" channel="Sinar FM">
+    <title lang="en">Storage Wars: Canada S2 Ep10</title>
+    <desc lang="en">Tensions are still running high between Roy and Ursula at an auction in Thornhill. Roy brings his dog for support, while Ursula does her best to ignore the S.O.B. and B.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151130090000 +0800" stop="20151130093000 +0800" channel="Sinar FM">
+    <title lang="en">Kings of Restoration S6 Ep105</title>
+    <desc lang="en">When a 1950s Cushman Ice Cream Cart glides into Rick's, the shop digs in for a sweet retro ride. Can Rick transform this fun frozen treat machine or will he leave the client feeling ice cold?.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151130093000 +0800" stop="20151130100000 +0800" channel="Sinar FM">
+    <title lang="en">Kings of Restoration S6 Ep106</title>
+    <desc lang="en">A 1964 NASA Jet Pack signed by astronauts Buzz Aldrin and Gene Cernan blasts in and Rick prepares for an out-of-this-world restoration. Returning customer Darius brings in a rare World War II era bomb.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151130100000 +0800" stop="20151130110000 +0800" channel="Sinar FM">
+    <title lang="en">Last Days of the Nazis S1 Ep05</title>
+    <desc lang="en">After the war, the Allies are horrified to stumble across evidence of the Nazi's crimes against humanity. Now they must question those who took part to prevent anything like this from happening again.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151130110000 +0800" stop="20151130120000 +0800" channel="Sinar FM">
+    <title lang="en">Sultan of Johor Ep02</title>
+    <desc lang="en">The Sultan of Johor wants to provide a spectacle the first royal coronation in over half-a-century. Between his duties as father and ruler, can he give his people the celebration they deserve?.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151130120000 +0800" stop="20151130130000 +0800" channel="Sinar FM">
+    <title lang="en">Ancient Aliens S5 Ep56</title>
+    <desc lang="en">Evidence of advanced medical procedures practiced in the ancient world has been found everywhere from carvings on the walls of temples to actual skeletal remains. Who--or what--were these ancient surgeons?.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151130130000 +0800" stop="20151130140000 +0800" channel="Sinar FM">
+    <title lang="en">The Pickers S7 Ep136</title>
+    <desc lang="en">At a California garage, Mike goes nuts for a must-have retro boat and falls for a micro BMW that could be worth some serious coin. Down the road, the guys pay a return visit to a totally rad radiator shop.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151130140000 +0800" stop="20151130150000 +0800" channel="Sinar FM">
+    <title lang="en">Last Days of the Nazis S1 Ep05</title>
+    <desc lang="en">After the war, the Allies are horrified to stumble across evidence of the Nazi's crimes against humanity. Now they must question those who took part to prevent anything like this from happening again.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151130150000 +0800" stop="20151130160000 +0800" channel="Sinar FM">
+    <title lang="en">Sultan of Johor Ep02</title>
+    <desc lang="en">The Sultan of Johor wants to provide a spectacle the first royal coronation in over half-a-century. Between his duties as father and ruler, can he give his people the celebration they deserve?.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151130160000 +0800" stop="20151130170000 +0800" channel="Sinar FM">
+    <title lang="en">United Stuff of America Ep04</title>
+    <desc lang="en">We look at how simple objects such as a shovel, a birdcage and a video camera linked a nation from coast to coast and accomplished massive feats of engineering like the Hoover Dam and the skyscraper.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151130170000 +0800" stop="20151130180000 +0800" channel="Sinar FM">
+    <title lang="en">In Search of Aliens Ep01</title>
+    <desc lang="en">Giorgio Tsoukalos unveils whether The Roswell Rock is merely a man-made fabrication or something much more. Why does the design match a crop circle that appeared 4,000 miles away from the Nevada desert?.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151130180000 +0800" stop="20151130183000 +0800" channel="Sinar FM">
+    <title lang="en">Kings of Restoration S7 Ep117</title>
+    <desc lang="en">The shop goes all in on an antique 1910s Slot Machine which once paid out cigars instead of cash. Can the guys take this gambling gadget and make it a showpiece, or will the restoration go up in smoke?.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151130183000 +0800" stop="20151130190000 +0800" channel="Sinar FM">
+    <title lang="en">Pawn Stars S10 Ep208</title>
+    <desc lang="en">Is Rick willing to deliver a verdict on a rare collection of sketches from the 1954 Sam Sheppard trial? A baseball signed by the entire 1962 American League All Star team including Yogi Berra slides in.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151130190000 +0800" stop="20151130200000 +0800" channel="Sinar FM">
+    <title lang="en">American Eats Ep06</title>
+    <desc lang="en">No other treat in the world is as inspiring and seductive as chocolate. Dark and rich, creamed or candied, it is a sweet that many people can't live without. How did a little pod become a global obsession?.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151130200000 +0800" stop="20151130203000 +0800" channel="Sinar FM">
+    <title lang="en">Storage Wars S7 Ep140</title>
+    <desc lang="en">An auction in San Marcos brings Darrell and Brandon to their home turf and Mary finds a way to deal with inflated prices. Jarrod and Brandi buy a vintage piece that sends them spinning.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151130203000 +0800" stop="20151130210000 +0800" channel="Sinar FM">
+    <title lang="en">Storage Wars: Canada S2 Ep02</title>
+    <desc lang="en">Roy's arch-nemesis, fill-in auctioneer Patrick Pecker returns to call an auction and chaos ensues. Bogart reads Paul the riot-shirt, and Rick and Cindy get lost.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151130210000 +0800" stop="20151130213000 +0800" channel="Sinar FM">
+    <title lang="en">Pawn Stars S14 Ep307</title>
+    <desc lang="en">Get lured in with the Pawn Stars as a Ronco pocket fisherman is spotted in the shop. Will Rick be able to reel in this compact rod or will he have bigger fish to fry?.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151130213000 +0800" stop="20151130220000 +0800" channel="Sinar FM">
+    <title lang="en">Pawn Stars S14 Ep308</title>
+    <desc lang="en">Turn the page with the Pawn Stars when a first edition of Mark Twain's 'A Yankee in King Arthur's Court' finds itself in the shop. Will Rick make a deal that's one for the books?.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151130220000 +0800" stop="20151130230000 +0800" channel="Sinar FM">
+    <title lang="en">Lost in Transmission Ep01</title>
+    <desc lang="en">Rutledge and George put their restoration skills to the ultimate test when they try to resurrect a 1981 Delorean. Rutledge ropes George into helping him convert a 1969 Subaru 360 microvan into a golf cart.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151130230000 +0800" stop="20151130233000 +0800" channel="Sinar FM">
+    <title lang="en">Kings of Restoration S6 Ep107</title>
+    <desc lang="en">Rick is tasked to repurpose a retro Cigarette Dispenser into a Bike Tool Vending Machine. Then, Tyler steps in for Rick to bid on a rare 1950s Pedal Bulldozer project. Can they rise to the challenge?.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151130233000 +0800" stop="20151201000000 +0800" channel="Sinar FM">
+    <title lang="en">Kings of Restoration S6 Ep108</title>
+    <desc lang="en">When a 1960s Electric Mini-Car arrives, the crew is challenged to make this sparky little roadster into a fast and safe ride for the open road. Will this pint-size put-put prove to be a full-size headache?.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151201000000 +0800" stop="20151201003000 +0800" channel="Sinar FM">
+    <title lang="en">Pawn Stars S14 Ep307</title>
+    <desc lang="en">Get lured in with the Pawn Stars as a Ronco pocket fisherman is spotted in the shop. Will Rick be able to reel in this compact rod or will he have bigger fish to fry?.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151201003000 +0800" stop="20151201010000 +0800" channel="Sinar FM">
+    <title lang="en">Pawn Stars S14 Ep308</title>
+    <desc lang="en">Turn the page with the Pawn Stars when a first edition of Mark Twain's 'A Yankee in King Arthur's Court' finds itself in the shop. Will Rick make a deal that's one for the books?.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151201010000 +0800" stop="20151201020000 +0800" channel="Sinar FM">
+    <title lang="en">Lost in Transmission Ep01</title>
+    <desc lang="en">Rutledge and George put their restoration skills to the ultimate test when they try to resurrect a 1981 Delorean. Rutledge ropes George into helping him convert a 1969 Subaru 360 microvan into a golf cart.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151201020000 +0800" stop="20151201023000 +0800" channel="Sinar FM">
+    <title lang="en">Kings of Restoration S6 Ep107</title>
+    <desc lang="en">Rick is tasked to repurpose a retro Cigarette Dispenser into a Bike Tool Vending Machine. Then, Tyler steps in for Rick to bid on a rare 1950s Pedal Bulldozer project. Can they rise to the challenge?.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151201023000 +0800" stop="20151201030000 +0800" channel="Sinar FM">
+    <title lang="en">Kings of Restoration S6 Ep108</title>
+    <desc lang="en">When a 1960s Electric Mini-Car arrives, the crew is challenged to make this sparky little roadster into a fast and safe ride for the open road. Will this pint-size put-put prove to be a full-size headache?.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151201030000 +0800" stop="20151201033000 +0800" channel="Sinar FM">
+    <title lang="en">Pawn Stars UK S2 Ep11</title>
+    <desc lang="en">Big Mark and Liam day trip to Liverpool where Big Mark hopes to own the world famous Cavern Club one brick at a time. It's a gas, gas, gas when three antique petrol pumps come into the shop.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151201033000 +0800" stop="20151201040000 +0800" channel="Sinar FM">
+    <title lang="en">Pawn Stars UK S2 Ep12</title>
+    <desc lang="en">When a travel document signed by Queen Elizabeth I is brought in to Vicki she must decide should it stay or should it go. Little Mark is up in the air over buying a second hand paraglider.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151201040000 +0800" stop="20151201050000 +0800" channel="Sinar FM">
+    <title lang="en">In Search of Aliens Ep01</title>
+    <desc lang="en">Giorgio Tsoukalos unveils whether The Roswell Rock is merely a man-made fabrication or something much more. Why does the design match a crop circle that appeared 4,000 miles away from the Nevada desert?.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151201050000 +0800" stop="20151201060000 +0800" channel="Sinar FM">
+    <title lang="en">United Stuff of America Ep04</title>
+    <desc lang="en">We look at how simple objects such as a shovel, a birdcage and a video camera linked a nation from coast to coast and accomplished massive feats of engineering like the Hoover Dam and the skyscraper.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151201060000 +0800" stop="20151201070000 +0800" channel="Sinar FM">
+    <title lang="en">American Eats Ep06</title>
+    <desc lang="en">No other treat in the world is as inspiring and seductive as chocolate. Dark and rich, creamed or candied, it is a sweet that many people can't live without. How did a little pod become a global obsession?.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151201070000 +0800" stop="20151201073000 +0800" channel="Sinar FM">
+    <title lang="en">Kings of Restoration S7 Ep117</title>
+    <desc lang="en">The shop goes all in on an antique 1910s Slot Machine which once paid out cigars instead of cash. Can the guys take this gambling gadget and make it a showpiece, or will the restoration go up in smoke?.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151201073000 +0800" stop="20151201080000 +0800" channel="Sinar FM">
+    <title lang="en">Pawn Stars S10 Ep208</title>
+    <desc lang="en">Is Rick willing to deliver a verdict on a rare collection of sketches from the 1954 Sam Sheppard trial? A baseball signed by the entire 1962 American League All Star team including Yogi Berra slides in.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151201080000 +0800" stop="20151201083000 +0800" channel="Sinar FM">
+    <title lang="en">Storage Wars S7 Ep140</title>
+    <desc lang="en">An auction in San Marcos brings Darrell and Brandon to their home turf and Mary finds a way to deal with inflated prices. Jarrod and Brandi buy a vintage piece that sends them spinning.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151201083000 +0800" stop="20151201090000 +0800" channel="Sinar FM">
+    <title lang="en">Storage Wars: Canada S2 Ep02</title>
+    <desc lang="en">Roy's arch-nemesis, fill-in auctioneer Patrick Pecker returns to call an auction and chaos ensues. Bogart reads Paul the riot-shirt, and Rick and Cindy get lost.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151201090000 +0800" stop="20151201100000 +0800" channel="Sinar FM">
+    <title lang="en">Lost in Transmission Ep01</title>
+    <desc lang="en">Rutledge and George put their restoration skills to the ultimate test when they try to resurrect a 1981 Delorean. Rutledge ropes George into helping him convert a 1969 Subaru 360 microvan into a golf cart.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151201100000 +0800" stop="20151201103000 +0800" channel="Sinar FM">
+    <title lang="en">Pawn Stars S14 Ep307</title>
+    <desc lang="en">Get lured in with the Pawn Stars as a Ronco pocket fisherman is spotted in the shop. Will Rick be able to reel in this compact rod or will he have bigger fish to fry?.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151201103000 +0800" stop="20151201110000 +0800" channel="Sinar FM">
+    <title lang="en">Pawn Stars S14 Ep308</title>
+    <desc lang="en">Turn the page with the Pawn Stars when a first edition of Mark Twain's 'A Yankee in King Arthur's Court' finds itself in the shop. Will Rick make a deal that's one for the books?.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151201110000 +0800" stop="20151201113000 +0800" channel="Sinar FM">
+    <title lang="en">Kings of Restoration S6 Ep107</title>
+    <desc lang="en">Rick is tasked to repurpose a retro Cigarette Dispenser into a Bike Tool Vending Machine. Then, Tyler steps in for Rick to bid on a rare 1950s Pedal Bulldozer project. Can they rise to the challenge?.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151201113000 +0800" stop="20151201120000 +0800" channel="Sinar FM">
+    <title lang="en">Kings of Restoration S6 Ep108</title>
+    <desc lang="en">When a 1960s Electric Mini-Car arrives, the crew is challenged to make this sparky little roadster into a fast and safe ride for the open road. Will this pint-size put-put prove to be a full-size headache?.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151201120000 +0800" stop="20151201130000 +0800" channel="Sinar FM">
+    <title lang="en">In Search of Aliens Ep01</title>
+    <desc lang="en">Giorgio Tsoukalos unveils whether The Roswell Rock is merely a man-made fabrication or something much more. Why does the design match a crop circle that appeared 4,000 miles away from the Nevada desert?.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151201130000 +0800" stop="20151201140000 +0800" channel="Sinar FM">
+    <title lang="en">American Eats Ep06</title>
+    <desc lang="en">No other treat in the world is as inspiring and seductive as chocolate. Dark and rich, creamed or candied, it is a sweet that many people can't live without. How did a little pod become a global obsession?.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151201140000 +0800" stop="20151201143000 +0800" channel="Sinar FM">
+    <title lang="en">Kings of Restoration S6 Ep107</title>
+    <desc lang="en">Rick is tasked to repurpose a retro Cigarette Dispenser into a Bike Tool Vending Machine. Then, Tyler steps in for Rick to bid on a rare 1950s Pedal Bulldozer project. Can they rise to the challenge?.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151201143000 +0800" stop="20151201150000 +0800" channel="Sinar FM">
+    <title lang="en">Kings of Restoration S6 Ep108</title>
+    <desc lang="en">When a 1960s Electric Mini-Car arrives, the crew is challenged to make this sparky little roadster into a fast and safe ride for the open road. Will this pint-size put-put prove to be a full-size headache?.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151201150000 +0800" stop="20151201153000 +0800" channel="Sinar FM">
+    <title lang="en">Pawn Stars S14 Ep307</title>
+    <desc lang="en">Get lured in with the Pawn Stars as a Ronco pocket fisherman is spotted in the shop. Will Rick be able to reel in this compact rod or will he have bigger fish to fry?.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151201153000 +0800" stop="20151201160000 +0800" channel="Sinar FM">
+    <title lang="en">Pawn Stars S14 Ep308</title>
+    <desc lang="en">Turn the page with the Pawn Stars when a first edition of Mark Twain's 'A Yankee in King Arthur's Court' finds itself in the shop. Will Rick make a deal that's one for the books?.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151201160000 +0800" stop="20151201170000 +0800" channel="Sinar FM">
+    <title lang="en">Lost in Transmission Ep01</title>
+    <desc lang="en">Rutledge and George put their restoration skills to the ultimate test when they try to resurrect a 1981 Delorean. Rutledge ropes George into helping him convert a 1969 Subaru 360 microvan into a golf cart.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151201170000 +0800" stop="20151201180000 +0800" channel="Sinar FM">
+    <title lang="en">In Search of Aliens Ep02</title>
+    <desc lang="en">Ancient Astronaut Theorist Giorgio Tsoukalos explores the most recent discoveries related to the centuries old story of Atlantis. Could evidence be found in a strange egg-shaped stone in Portugal?.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151201180000 +0800" stop="20151201183000 +0800" channel="Sinar FM">
+    <title lang="en">Kings of Restoration S7 Ep118</title>
+    <desc lang="en">When a 'Big Mac Jail' from a 1970s McDonalds PlayPlace arrives in the shop, Rick prepares for a fast food facelift. Can this playground piece go from faulty to fresh?.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151201183000 +0800" stop="20151201190000 +0800" channel="Sinar FM">
+    <title lang="en">Pawn Stars S11 Ep209</title>
+    <desc lang="en">Rick and the Old Man eye a set of keys to Al Capone's jail cell at Cook County Jail. And later, the guys discover that the Old Man is a bit of a hoarder, but it's what he's hoarding that raises eyebrows.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151201190000 +0800" stop="20151201200000 +0800" channel="Sinar FM">
+    <title lang="en">Lost in Transmission Ep01</title>
+    <desc lang="en">Rutledge and George put their restoration skills to the ultimate test when they try to resurrect a 1981 Delorean. Rutledge ropes George into helping him convert a 1969 Subaru 360 microvan into a golf cart.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151201200000 +0800" stop="20151201203000 +0800" channel="Sinar FM">
+    <title lang="en">Storage Wars S7 Ep141</title>
+    <desc lang="en">The competition becomes fierce in North Hollywood and even Dan and Laura can't escape the tension. Dave scores a locker that may be a hit and Rene fights past the local buyers to have some fun.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151201203000 +0800" stop="20151201210000 +0800" channel="Sinar FM">
+    <title lang="en">Storage Wars: Canada S2 Ep03</title>
+    <desc lang="en">Ursula's new employee Tania makes a big impression at an auction in Toronto.When Bogart decides to assert himself, he threatens Roy's claim to the title of biggest jerk at the auction.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151201210000 +0800" stop="20151201213000 +0800" channel="Sinar FM">
+    <title lang="en">Storage Wars: Texas S4 Ep42</title>
+    <desc lang="en">The auction returns to the town of Waxahachie, where Victor needs to halt a losing streak. Moe and Mary, trying to help Mary's struggling brick and mortar, hope to score big with an antique instrument.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151201213000 +0800" stop="20151201220000 +0800" channel="Sinar FM">
+    <title lang="en">Storage Wars: Texas S4 Ep43</title>
+    <desc lang="en">The auction action takes place in the tiny town of Pantego, Texas. Victor gets back in the game when he discovers a box of antique periodicals. Moe and Mary find a useful item in a beauty salon unit.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151201220000 +0800" stop="20151201223000 +0800" channel="Sinar FM">
+    <title lang="en">Storage Wars: Canada S2 Ep12</title>
+    <desc lang="en">After months of waiting for Cindy to set a wedding date, Rick makes a bold move at an auction in Mississauga. Roy records his memoirs for bidding posterity. Ursula finds a new place to stash her booze.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151201223000 +0800" stop="20151201230000 +0800" channel="Sinar FM">
+    <title lang="en">Storage Wars: Canada S2 Ep11</title>
+    <desc lang="en">Paul and Bogart swore they would never bring Bogart's sisters to another auction, which is exactly why Roy can't wait to bring them to an auction in Cambridge.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151201230000 +0800" stop="20151202000000 +0800" channel="Sinar FM">
+    <title lang="en">The Pickers S7 Ep135</title>
+    <desc lang="en">Prince Mongo answers to an other-worldly power and commands Mike and Frank to buy, but refuses to quote prices; a man cave full of rare cars, and a freestyle stop in Kentucky reveals two surprise finds.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151202000000 +0800" stop="20151202003000 +0800" channel="Sinar FM">
+    <title lang="en">Storage Wars: Texas S4 Ep42</title>
+    <desc lang="en">The auction returns to the town of Waxahachie, where Victor needs to halt a losing streak. Moe and Mary, trying to help Mary's struggling brick and mortar, hope to score big with an antique instrument.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151202003000 +0800" stop="20151202010000 +0800" channel="Sinar FM">
+    <title lang="en">Storage Wars: Texas S4 Ep43</title>
+    <desc lang="en">The auction action takes place in the tiny town of Pantego, Texas. Victor gets back in the game when he discovers a box of antique periodicals. Moe and Mary find a useful item in a beauty salon unit.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151202010000 +0800" stop="20151202013000 +0800" channel="Sinar FM">
+    <title lang="en">Storage Wars: Canada S2 Ep12</title>
+    <desc lang="en">After months of waiting for Cindy to set a wedding date, Rick makes a bold move at an auction in Mississauga. Roy records his memoirs for bidding posterity. Ursula finds a new place to stash her booze.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151202013000 +0800" stop="20151202020000 +0800" channel="Sinar FM">
+    <title lang="en">Storage Wars: Canada S2 Ep11</title>
+    <desc lang="en">Paul and Bogart swore they would never bring Bogart's sisters to another auction, which is exactly why Roy can't wait to bring them to an auction in Cambridge.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151202020000 +0800" stop="20151202030000 +0800" channel="Sinar FM">
+    <title lang="en">The Pickers S7 Ep135</title>
+    <desc lang="en">Prince Mongo answers to an other-worldly power and commands Mike and Frank to buy, but refuses to quote prices; a man cave full of rare cars, and a freestyle stop in Kentucky reveals two surprise finds.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151202030000 +0800" stop="20151202033000 +0800" channel="Sinar FM">
+    <title lang="en">Pawn Stars UK S2 Ep13</title>
+    <desc lang="en">Vicki and Simon are on the hunt for history when a customer brings in a scarf from the battle of Waterloo.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151202033000 +0800" stop="20151202040000 +0800" channel="Sinar FM">
+    <title lang="en">Pawn Stars UK S2 Ep14</title>
+    <desc lang="en">Little Mark and Liam are 'court' in a trap when they want to buy a racquet belonging to Elvis Presley. Whilst the seller is asking a lot of 'money honey', for the pawnbrokers it's 'now or never'.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151202040000 +0800" stop="20151202050000 +0800" channel="Sinar FM">
+    <title lang="en">In Search of Aliens Ep02</title>
+    <desc lang="en">Ancient Astronaut Theorist Giorgio Tsoukalos explores the most recent discoveries related to the centuries old story of Atlantis. Could evidence be found in a strange egg-shaped stone in Portugal?.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151202050000 +0800" stop="20151202053000 +0800" channel="Sinar FM">
+    <title lang="en">Storage Wars: Canada S2 Ep12</title>
+    <desc lang="en">After months of waiting for Cindy to set a wedding date, Rick makes a bold move at an auction in Mississauga. Roy records his memoirs for bidding posterity. Ursula finds a new place to stash her booze.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151130002300 +0800" stop="20151130011300 +0800" channel="ERA">
+    <title lang="en">American Chopper S9</title>
+    <desc lang="en">The crews are under presure to finish the 911, GAF and Venetian bike. Cody goes after OCC with a revengeful prank as Chopper Live draws near.(n)</desc>
+    <category lang="en">Special Interest</category>
+    <category lang="en">Series</category>
+    <category lang="en">Wellness</category>
+    <rating>
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20151130011300 +0800" stop="20151130020300 +0800" channel="ERA">
+    <title lang="en">Kindig Customs Ep04</title>
+    <desc lang="en">The shop gears up for the biggest outdoor show of the year. Dave's plans to turn profits from a '27 Zipper into an AC for the shop goes south.(n)</desc>
+    <category lang="en">Special Interest</category>
+    <category lang="en">Series</category>
+    <category lang="en">Specials</category>
+    <rating>
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20151130020300 +0800" stop="20151130025300 +0800" channel="ERA">
+    <title lang="en">Fast N' Loud S3 Ep18</title>
+    <desc lang="en">With a big-time buyer already on the way, engine and upholstery problems threaten to derail Richard and Aaron's red '67 Cadillac convertible.(n)</desc>
+    <category lang="en">Special Interest</category>
+    <category lang="en">Series</category>
+    <category lang="en">Specials</category>
+    <rating>
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20151130025300 +0800" stop="20151130034300 +0800" channel="ERA">
+    <title lang="en">The Fighters</title>
+    <desc lang="en">Master gem hunter Don Kogen and team travel the globe to bring back the rarest, most beautiful gems in the world.(n)</desc>
+    <category lang="en">Special Interest</category>
+    <category lang="en">Series</category>
+    <category lang="en">Wellness</category>
+    <rating>
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20151130034300 +0800" stop="20151130040800 +0800" channel="ERA">
+    <title lang="en">Tattoo School Series Ep04</title>
+    <desc lang="en">Dr Bill pulls no punches when three former students return to Tattoo School to sharpen their skills in his advanced class.(n)</desc>
+    <category lang="en">Special Interest</category>
+    <category lang="en">Series</category>
+    <category lang="en">Specials</category>
+    <rating>
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20151130040800 +0800" stop="20151130043300 +0800" channel="ERA">
+    <title lang="en">Outrageous 911 Ep09</title>
+    <desc lang="en">A woman calls to report her raw waffles, and adults fight over a parking spot, plus many more.(n)</desc>
+    <category lang="en">Special Interest</category>
+    <category lang="en">Series</category>
+    <category lang="en">Specials</category>
+    <rating>
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20151130043300 +0800" stop="20151130053300 +0800" channel="ERA">
+    <title lang="en">The Devils Ride S2 Ep05</title>
+    <desc lang="en">The Devils and The Mob do whatever it takes to clean up and strengthen their armies.(n)</desc>
+    <category lang="en">Special Interest</category>
+    <category lang="en">Series</category>
+    <category lang="en">Specials</category>
+    <rating>
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20151130053300 +0800" stop="20151130060300 +0800" channel="ERA">
+    <title lang="en">Chasing Classic Cars S4</title>
+    <desc lang="en">It's Rolls Royce two ways when Wayne brings a 1927 Rolls Royce Phantom I Kenilworth.(n)</desc>
+    <category lang="en">Special Interest</category>
+    <category lang="en">Series</category>
+    <category lang="en">Wellness</category>
+    <rating>
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20151130060300 +0800" stop="20151130065300 +0800" channel="ERA">
+    <title lang="en">Fast N' Loud S2</title>
+    <desc lang="en">KC's beloved but brokendown '55 Ford Customline gets new life, but can Richard flip it to Shark Tank's Mark Cuban?.(n)</desc>
+    <category lang="en">Special Interest</category>
+    <category lang="en">Series</category>
+    <category lang="en">Wellness</category>
+    <rating>
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20151130065300 +0800" stop="20151130071800 +0800" channel="ERA">
+    <title lang="en">Car Chasers S2 Ep13</title>
+    <desc lang="en">Jeff and Matt get on their travels to check out a 1970 Camaro. The beauty belongs to a man who must reluctantly sell his toys to help raise his young family.(n)</desc>
+    <category lang="en">Special Interest</category>
+    <category lang="en">Series</category>
+    <category lang="en">Specials</category>
+    <rating>
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20151130071800 +0800" stop="20151130074300 +0800" channel="ERA">
+    <title lang="en">Car Chasers S2 Ep14</title>
+    <desc lang="en">The Car Chasers hunt a brand new Shelby GT500, and a family looking for a new car falls in love with Jeff's unique custom 1957 Chevy.(n)</desc>
+    <category lang="en">Special Interest</category>
+    <category lang="en">Series</category>
+    <category lang="en">Specials</category>
+    <rating>
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20151130074300 +0800" stop="20151130083300 +0800" channel="ERA">
+    <title lang="en">Fantomworks S2 Ep13</title>
+    <desc lang="en">Gary wants to restore a 1964 Mercedes 230SL, but his tight budget launches Dan into a headlong battle.(n)</desc>
+    <category lang="en">Special Interest</category>
+    <category lang="en">Series</category>
+    <category lang="en">Specials</category>
+    <rating>
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20151130083300 +0800" stop="20151130092300 +0800" channel="ERA">
+    <title lang="en">Kindig Customs S2 Fore!</title>
+    <desc lang="en">Dave and Kevin tee off on one of the most unique projects to ever come in the Kindig-It door.(n)</desc>
+    <category lang="en">Special Interest</category>
+    <category lang="en">Series</category>
+    <category lang="en">Specials</category>
+    <rating>
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20151130092300 +0800" stop="20151130101300 +0800" channel="ERA">
+    <title lang="en">Saint Hoods Ep04</title>
+    <desc lang="en">For centuries, Boston has been run by tough neighbourhood crews that are in a constant battle for ultimate control and power.(n)</desc>
+    <category lang="en">Special Interest</category>
+    <category lang="en">Series</category>
+    <category lang="en">Specials</category>
+    <rating>
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20151130101300 +0800" stop="20151130110300 +0800" channel="ERA">
+    <title lang="en">Overhaulin S9 Ep02</title>
+    <desc lang="en">Locksmith Doug's beloved '82 El Camino isn't going to a chop shop, its going straight to the Overhaulin' set.(n)</desc>
+    <category lang="en">Special Interest</category>
+    <category lang="en">Series</category>
+    <category lang="en">Specials</category>
+    <rating>
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20151130110300 +0800" stop="20151130112800 +0800" channel="ERA">
+    <title lang="en">Tattoo School Series Ep04</title>
+    <desc lang="en">Dr Bill pulls no punches when three former students return to Tattoo School to sharpen their skills in his advanced class.(n)</desc>
+    <category lang="en">Special Interest</category>
+    <category lang="en">Series</category>
+    <category lang="en">Specials</category>
+    <rating>
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20151130112800 +0800" stop="20151130115300 +0800" channel="ERA">
+    <title lang="en">Outrageous 911 Ep09</title>
+    <desc lang="en">A woman calls to report her raw waffles, and adults fight over a parking spot, plus many more.(n)</desc>
+    <category lang="en">Special Interest</category>
+    <category lang="en">Series</category>
+    <category lang="en">Specials</category>
+    <rating>
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20151130115300 +0800" stop="20151130124300 +0800" channel="ERA">
+    <title lang="en">Fast N' Loud S2</title>
+    <desc lang="en">Richard gets his hands dirty building a $100K 2013 COPO Camaro from the wheels up on the VIP assembly line.(n)</desc>
+    <category lang="en">Special Interest</category>
+    <category lang="en">Series</category>
+    <category lang="en">Wellness</category>
+    <rating>
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20151130124300 +0800" stop="20151130133300 +0800" channel="ERA">
+    <title lang="en">Inside West Coast Customs S4 Ep10</title>
+    <desc lang="en">The Cracker Jack'D has an exclusive mobile sampling vehicle built that will be used for an engaging one-of-a-kind cross-country tour.(n)</desc>
+    <category lang="en">Special Interest</category>
+    <category lang="en">Series</category>
+    <category lang="en">Specials</category>
+    <rating>
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20151130133300 +0800" stop="20151130142300 +0800" channel="ERA">
+    <title lang="en">Overhaulin' S5 Ep02</title>
+    <desc lang="en">These vehicles mean a lot more to their owners than a pile of metal. Join these car lovers as they recover their long lost loved ones or find new loves.(n)</desc>
+    <category lang="en">Special Interest</category>
+    <category lang="en">Series</category>
+    <category lang="en">Specials</category>
+    <rating>
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20151130142300 +0800" stop="20151130151300 +0800" channel="ERA">
+    <title lang="en">Wheeler Dealers S11 Ep03</title>
+    <desc lang="en">Mazda's coupe is unlike any other with unique technology and great performance. Mike finds one that seems perfect and challenges Edd to make a good car better.(n)</desc>
+    <category lang="en">Special Interest</category>
+    <category lang="en">Series</category>
+    <category lang="en">Wellness</category>
+    <rating>
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20151130151300 +0800" stop="20151130160300 +0800" channel="ERA">
+    <title lang="en">Fast N' Loud S3 Ep18</title>
+    <desc lang="en">With a big-time buyer already on the way, engine and upholstery problems threaten to derail Richard and Aaron's red '67 Cadillac convertible.(n)</desc>
+    <category lang="en">Special Interest</category>
+    <category lang="en">Series</category>
+    <category lang="en">Specials</category>
+    <rating>
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20151130160300 +0800" stop="20151130165300 +0800" channel="ERA">
+    <title lang="en">Airplane Repo S2 Ep13</title>
+    <desc lang="en">Ken Cage and Danny Thompson try to repo two planes from a much-feared criminal.(n)</desc>
+    <category lang="en">Special Interest</category>
+    <category lang="en">Series</category>
+    <category lang="en">Specials</category>
+    <rating>
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20151130165300 +0800" stop="20151130174300 +0800" channel="ERA">
+    <title lang="en">Fantomworks S2 Ep13</title>
+    <desc lang="en">Gary wants to restore a 1964 Mercedes 230SL, but his tight budget launches Dan into a headlong battle.(n)</desc>
+    <category lang="en">Special Interest</category>
+    <category lang="en">Series</category>
+    <category lang="en">Specials</category>
+    <rating>
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20151130174300 +0800" stop="20151130183300 +0800" channel="ERA">
+    <title lang="en">Fat N' Furious: Rolling Thunder</title>
+    <desc lang="en">The owner of a rare 1970 Plymouth Superbird comes to Christmas Auto. He needs Tommy's help to take down his long time rival in a head to head race.(n)</desc>
+    <category lang="en">Special Interest</category>
+    <category lang="en">Series</category>
+    <category lang="en">Wellness</category>
+    <rating>
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20151130183300 +0800" stop="20151130192300 +0800" channel="ERA">
+    <title lang="en">Fast N' Loud S2 Ep09</title>
+    <desc lang="en">Aaron and the crew turn an ugly duckling '71 Chevy Kingwood station wagon into the cool, 70s hot rod dragster it was meant to be.(n)</desc>
+    <category lang="en">Special Interest</category>
+    <category lang="en">Series</category>
+    <category lang="en">Specials</category>
+    <rating>
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20151130192300 +0800" stop="20151130201300 +0800" channel="ERA">
+    <title lang="en">Turbo Pickers Ep04</title>
+    <desc lang="en">The pickers are made to work for a sorry looking Porsche 924S and a super-rare British Leyland car tool kit. Mechanic Dave gets to work with Brands Hatch in mind.(n)</desc>
+    <category lang="en">Special Interest</category>
+    <category lang="en">Series</category>
+    <category lang="en">Specials</category>
+    <rating>
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20151130201300 +0800" stop="20151130203800 +0800" channel="ERA">
+    <title lang="en">Car Chasers S2 Ep15</title>
+    <desc lang="en">The gang puts finishing touches on all of their cars that are headed for the Austin auction; Jeff must rely on Matt Evans to come to the rescue.(n)</desc>
+    <category lang="en">Special Interest</category>
+    <category lang="en">Series</category>
+    <category lang="en">Specials</category>
+    <rating>
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20151130203800 +0800" stop="20151130210300 +0800" channel="ERA">
+    <title lang="en">Car Chasers S2 Ep16</title>
+    <desc lang="en">Jeff and Meg go toe to toe with a military couple for a classic '70s muscle car and a friend brings by a late-model Corvette that raises eyebrows.(n)</desc>
+    <category lang="en">Special Interest</category>
+    <category lang="en">Series</category>
+    <category lang="en">Specials</category>
+    <rating>
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20151130210300 +0800" stop="20151130212800 +0800" channel="ERA">
+    <title lang="en">Chasing Classic Cars S7 Ep18</title>
+    <desc lang="en">Wayne's found perfect multimillion dollar cars for two new clients - a rare BMW 507 and a 275 GTB/4 Ferrari.(n)</desc>
+    <category lang="en">Special Interest</category>
+    <category lang="en">Series</category>
+    <category lang="en">Specials</category>
+    <rating>
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20151130212800 +0800" stop="20151130215300 +0800" channel="ERA">
+    <title lang="en">Chasing Classic Cars S6</title>
+    <desc lang="en">An unusual car collection is turned over to an attorney.(n)</desc>
+    <category lang="en">Special Interest</category>
+    <category lang="en">Series</category>
+    <category lang="en">Wellness</category>
+    <rating>
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20151130215300 +0800" stop="20151130221800 +0800" channel="ERA">
+    <title lang="en">Savage Family Diggers Ep09</title>
+    <desc lang="en">The Savage family goes digging with a surprising partner: acclaimed actor Bill Paxton.  Will they hit pay dirt at a former socialist commune?.(n)</desc>
+    <category lang="en">Special Interest</category>
+    <category lang="en">Series</category>
+    <category lang="en">Specials</category>
+    <rating>
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20151130221800 +0800" stop="20151130224300 +0800" channel="ERA">
+    <title lang="en">Savage Family Diggers Ep10</title>
+    <desc lang="en">Team Savage braves the elements for relics from the Mormon War of 1838.  But what happens when gun-toting townsfolk don't want their history dug up?.(n)</desc>
+    <category lang="en">Special Interest</category>
+    <category lang="en">Series</category>
+    <category lang="en">Specials</category>
+    <rating>
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20151130224300 +0800" stop="20151130230800 +0800" channel="ERA">
+    <title lang="en">No Limits Ep03</title>
+    <desc lang="en">Eric Young is going deep… underground. Death Valley is filled with dangerous abandoned mines, and many people die each year attempting to explore them.(n)</desc>
+    <category lang="en">Special Interest</category>
+    <category lang="en">Series</category>
+    <category lang="en">Specials</category>
+    <rating>
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20151130230800 +0800" stop="20151130233300 +0800" channel="ERA">
+    <title lang="en">No Limits Ep04</title>
+    <desc lang="en">Eric's on a pilgrimage to Moab, Utah, to attempt the dangerous art of highlining, which involves walking on a thin rope across a deep canyon.(n)</desc>
+    <category lang="en">Special Interest</category>
+    <category lang="en">Series</category>
+    <category lang="en">Specials</category>
+    <rating>
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20151130004500 +0800" stop="20151130011000 +0800" channel="hitz.fm">
+    <title lang="en">Mail Order Murder</title>
+    <desc lang="en">After divorcing his first wife, Slavka, Lester Wilson finds a new wife, Natalia from Russia, online but Lester still visits Slavka and their young son who are found dead later.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151130011000 +0800" stop="20151130014000 +0800" channel="hitz.fm">
+    <title lang="en">Mail Order Murder</title>
+    <desc lang="en">When Mail Order bride Emelita disappears from her home, police are suspicious of husband Jack Reees, especially when he admits that two of his previous wives had mysteriously died.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151130014000 +0800" stop="20151130023500 +0800" channel="hitz.fm">
+    <title lang="en">Obsession: Dark Desires S2</title>
+    <desc lang="en">Special needs school teacher Linda White loves her job and cares about her students. When 16-year-old Todd starts going off the rails she does everything she can to help him.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151130023500 +0800" stop="20151130033500 +0800" channel="hitz.fm">
+    <title lang="en">FBI: Criminal Pursuit S1</title>
+    <desc lang="en">A pizza delivery man stuns the FBI when he robs a bank with a strange collar bomb around his neck, and is killed when it explodes. The FBI investigate and is drawn into a complex web of lies and deceit.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151130033500 +0800" stop="20151130043000 +0800" channel="hitz.fm">
+    <title lang="en">My Ghost Story: Caught on Camera S5</title>
+    <desc lang="en">After a couple buy a house nicknamed "The Boneyard," they see books flying off the shelves and hear footsteps and voices when the house is empty.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151130043000 +0800" stop="20151130052500 +0800" channel="hitz.fm">
+    <title lang="en">My Ghost Story: Caught on Camera S6</title>
+    <desc lang="en">Investigators looking into levitations at a farm are terrified when they discover that a spirit is among them; a ghost with a sweet tooth takes candy off the shelves at a supermarket in Australia.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151130052500 +0800" stop="20151130062000 +0800" channel="hitz.fm">
+    <title lang="en">Killer Profile S1</title>
+    <desc lang="en">Fun and games turn deadly when childhood friends Wesley Shermantine and Loren Herzog take their shared love of hunting to a new level, preying on humans for sport.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151130062000 +0800" stop="20151130071500 +0800" channel="hitz.fm">
+    <title lang="en">Evil Twins</title>
+    <desc lang="en">An officer is murdered in cold blood by twins Joel and Michael Stovall. The armed and dangerous duo hijacked a pickup and led law enforcement on a stunning, high-speed shootout through the mountains.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151130071500 +0800" stop="20151130081000 +0800" channel="hitz.fm">
+    <title lang="en">The First 48 S12</title>
+    <desc lang="en">As detective Chris Anderson investigates the gruesome murder of a woman who is shot to death and then set on fire, the victim's family reveals a final disturbing twist in the case.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151130081000 +0800" stop="20151130090500 +0800" channel="hitz.fm">
+    <title lang="en">48 Hours Mystery S5</title>
+    <desc lang="en">Accused killer Jodi Arias talked to 48 HOURS shortly after being arrested in 2008 for murdering her boyfriend, Travis Alexander, and now in a dramatic trial, Arias' conversation is back to haunt her.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151130090500 +0800" stop="20151130093000 +0800" channel="hitz.fm">
+    <title lang="en">Mail Order Murder</title>
+    <desc lang="en">After divorcing his first wife, Slavka, Lester Wilson finds a new wife, Natalia from Russia, online but Lester still visits Slavka and their young son who are found dead later.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151130093000 +0800" stop="20151130100000 +0800" channel="hitz.fm">
+    <title lang="en">Mail Order Murder</title>
+    <desc lang="en">When Mail Order bride Emelita disappears from her home, police are suspicious of husband Jack Reees, especially when he admits that two of his previous wives had mysteriously died.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151130100000 +0800" stop="20151130105500 +0800" channel="hitz.fm">
+    <title lang="en">My Ghost Story: Caught on Camera S5</title>
+    <desc lang="en">After a couple buy a house nicknamed "The Boneyard," they see books flying off the shelves and hear footsteps and voices when the house is empty.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151130105500 +0800" stop="20151130115000 +0800" channel="hitz.fm">
+    <title lang="en">Killer Profile S1</title>
+    <desc lang="en">Fun and games turn deadly when childhood friends Wesley Shermantine and Loren Herzog take their shared love of hunting to a new level, preying on humans for sport.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151130115000 +0800" stop="20151130124500 +0800" channel="hitz.fm">
+    <title lang="en">Obsession: Dark Desires S2</title>
+    <desc lang="en">Special needs school teacher Linda White loves her job and cares about her students. When 16-year-old Todd starts going off the rails she does everything she can to help him.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151130124500 +0800" stop="20151130134000 +0800" channel="hitz.fm">
+    <title lang="en">Evil Twins</title>
+    <desc lang="en">An officer is murdered in cold blood by twins Joel and Michael Stovall. The armed and dangerous duo hijacked a pickup and led law enforcement on a stunning, high-speed shootout through the mountains.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151130134000 +0800" stop="20151130144000 +0800" channel="hitz.fm">
+    <title lang="en">FBI: Criminal Pursuit S1</title>
+    <desc lang="en">Sandra Cantu is playing outside her house when she vanishes into thin air. Only a surveillance tape provides clues. Local authorities call in the FBI as they race to find Sandra alive.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151130144000 +0800" stop="20151130153500 +0800" channel="hitz.fm">
+    <title lang="en">My Ghost Story: Caught on Camera S5</title>
+    <desc lang="en">After a couple buy a house nicknamed "The Boneyard," they see books flying off the shelves and hear footsteps and voices when the house is empty.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151130153500 +0800" stop="20151130163000 +0800" channel="hitz.fm">
+    <title lang="en">My Ghost Story: Caught on Camera S6</title>
+    <desc lang="en">Investigators looking into levitations at a farm are terrified when they discover that a spirit is among them; a ghost with a sweet tooth takes candy off the shelves at a supermarket in Australia.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151130163000 +0800" stop="20151130172500 +0800" channel="hitz.fm">
+    <title lang="en">Obsession: Dark Desires S2</title>
+    <desc lang="en">Special needs school teacher Linda White loves her job and cares about her students. When 16-year-old Todd starts going off the rails she does everything she can to help him.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151130172500 +0800" stop="20151130175000 +0800" channel="hitz.fm">
+    <title lang="en">Mail Order Murder</title>
+    <desc lang="en">After divorcing his first wife, Slavka, Lester Wilson finds a new wife, Natalia from Russia, online but Lester still visits Slavka and their young son who are found dead later.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151130175000 +0800" stop="20151130182000 +0800" channel="hitz.fm">
+    <title lang="en">Mail Order Murder</title>
+    <desc lang="en">When Mail Order bride Emelita disappears from her home, police are suspicious of husband Jack Reees, especially when he admits that two of his previous wives had mysteriously died.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151130182000 +0800" stop="20151130191500 +0800" channel="hitz.fm">
+    <title lang="en">The First 48 S12</title>
+    <desc lang="en">The team works the murder of a janitor, brutally stabbed to death in his apartment. With no witnesses, they must rely on clues gathered at the crime seen to identify and track down their suspect.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151130191500 +0800" stop="20151130201000 +0800" channel="hitz.fm">
+    <title lang="en">48 Hours Mystery S5</title>
+    <desc lang="en">48 hours reports on the trial of Jodi Arias, who was charged with murdering her boyfriend. Arias spoke to 48 hours shortly after being arrested and her interviews were used as evidence in her case.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151130201000 +0800" stop="20151130203500 +0800" channel="hitz.fm">
+    <title lang="en">Medical Detectives S4</title>
+    <desc lang="en">The truck fell off of the hydraulic jack, crushed the man working beneath it, and sparked a fire. Were they dealing with a tragic accident or a carefully orchestrated murder?.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151130203500 +0800" stop="20151130210500 +0800" channel="hitz.fm">
+    <title lang="en">Medical Detectives S4</title>
+    <desc lang="en">A woman is murdered on a jogging trail in the middle of the day. Nine days later, a witness tells police about a chance encounter, and cigarette butts which may contain the killer's DNA.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151130210500 +0800" stop="20151130213000 +0800" channel="hitz.fm">
+    <title lang="en">Medical Detectives S4</title>
+    <desc lang="en">A young mother is murdered after years of domestic abuse. The evidence which will conclusively tie the killer to the crime is on a freshly-baked hamburger bun.(n)</desc>
+    <category lang="en">Education</category>
+    <category lang="en">Series</category>
+    <category lang="en">General</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151130213000 +0800" stop="20151130220000 +0800" channel="hitz.fm">
+    <title lang="en">Medical Detectives S4</title>
+    <desc lang="en">Threatening emails, a missing person and an abandoned truck lead police to where a murder was committed.  The investigators are sure they have the killer but they are missing the body of the victim.(n)</desc>
+    <category lang="en">Education</category>
+    <category lang="en">Series</category>
+    <category lang="en">General</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151130220000 +0800" stop="20151130225500 +0800" channel="hitz.fm">
+    <title lang="en">Your Worst Nightmare</title>
+    <desc lang="en">Its Cassie Jo Stoddard's first weekend housesitting by her herself and she's determined to do a great job. But the weekend turns into a real life horror movie when unexpected visitors terrorize the home.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151130225500 +0800" stop="20151130235000 +0800" channel="hitz.fm">
+    <title lang="en">Wicked Attraction S2</title>
+    <desc lang="en">A self-proclaimed prophet in California devises a devilish scheme to hasten heaven on earth. To carry it out he must train deadly disciples prepared to be brainwashed before being asked to steal and kill.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151130235000 +0800" stop="20151201004500 +0800" channel="hitz.fm">
+    <title lang="en">Evil Twins</title>
+    <desc lang="en">When a mail bomb explodes in the hands of an African American government official in Arizona, all signs point to identical twins, Dennis and Daniel Mahon who had joined the Ku Klux Klan as young men.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151201004500 +0800" stop="20151201014000 +0800" channel="hitz.fm">
+    <title lang="en">The Killer Speaks S1</title>
+    <desc lang="en">Dena Riley met convicted rapist Richard Davis and their relationship turns out to be a marriage made in hell. Riley reveals how they acted out their sadistic fantasies that was recorded to be savored later.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151201014000 +0800" stop="20151201023500 +0800" channel="hitz.fm">
+    <title lang="en">The First 48 S13</title>
+    <desc lang="en">Dallas Detective Dwayne Thompson and the homicide team investigate the brutal double murders of two friends shot and burned beyond recognition in the trunk of a car.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151201023500 +0800" stop="20151201033500 +0800" channel="hitz.fm">
+    <title lang="en">FBI: Criminal Pursuit S1</title>
+    <desc lang="en">Sandra Cantu is playing outside her house when she vanishes into thin air. Only a surveillance tape provides clues. Local authorities call in the FBI as they race to find Sandra alive.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151201033500 +0800" stop="20151201043000 +0800" channel="hitz.fm">
+    <title lang="en">48 Hours Mystery S5</title>
+    <desc lang="en">48 hours reports on the trial of Jodi Arias, who was charged with murdering her boyfriend. Arias spoke to 48 hours shortly after being arrested and her interviews were used as evidence in her case.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151201043000 +0800" stop="20151201052500 +0800" channel="hitz.fm">
+    <title lang="en">Wicked Attraction S2</title>
+    <desc lang="en">A self-proclaimed prophet in California devises a devilish scheme to hasten heaven on earth. To carry it out he must train deadly disciples prepared to be brainwashed before being asked to steal and kill.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151201052500 +0800" stop="20151201055000 +0800" channel="hitz.fm">
+    <title lang="en">Medical Detectives S4</title>
+    <desc lang="en">The truck fell off of the hydraulic jack, crushed the man working beneath it, and sparked a fire. Were they dealing with a tragic accident or a carefully orchestrated murder?.(n)</desc>
+    <category lang="en">Unknown</category>
+    <category lang="en">Series</category>
+    <rating>
+      <value>15</value>
     </rating>
   </programme>
 </tv>
