@@ -18,7 +18,7 @@ http://8tvliveios-i.akamaihd.net/hls/live/205901/ios/8tvlive/master.m3u8
 #EXTINF:0, tvg-id="TV 9" tvg-logo="http://dev.mediaprima.com.my/wp-content/uploads/2014/05/tv9.png" group-title="Malaysia",TV9
 http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master.m3u8
 
-#EXTINF:0, tvg-id="TVi" tvg-logo="http://myiptv.site40.net/logos/tvi.png" tvg-name="TVi"  group-title="Malaysia",TVi
+#EXTINF:0, tvg-id="TVi" tvg-logo="http://myiptv.site40.net/logos/tvi.png" group-title="Malaysia",TVi
 http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch003.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1448939766&myTokenPrefixhash=fyc20aMWYk7G-wIkXlKAJsAYNQwlWuNLi8evdcqgZP4=
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/galaksi.png" tvg-name="MUZIK AKTIF"  group-title="Malaysia",MUZIK AKTIF
