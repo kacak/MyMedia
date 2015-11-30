@@ -45,7 +45,7 @@ http://d22b8vh21p20bg.cloudfront.net/mylive/smil:bernama2_all.smil/chunklist_w77
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/1news.png" tvg-name="1NEWS"  group-title="Malaysia",1NEWS
 http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch006.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1448939814&myTokenPrefixhash=ETalAYCShHTGxF0z-LhKej7Sx1gB6U1v9knEl1SUXl4=
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR deepskyblue][B]-=INDONESIA=-[/B][/COLOR]"  group-title="Group N/A",[COLOR deepskyblue][B](::: INDONESIA :::)[/B][/COLOR]
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR deepskyblue][B]-=INDONESIA=-[/B][/COLOR]"  group-title="Group N/A",[COLOR deepskyblue][B]-==INDONESIA==-[/B][/COLOR]
 http://lihattv.com/?player=5306
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TRANS7"  group-title="Group N/A",TRANS7
@@ -78,7 +78,7 @@ http://edge.nim.mivo.tv/mp17pjqx1esapruf/lbsindrama_all/playlist.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MIVO HD"  group-title="Group N/A",MIVO HD
 http://edge.nim.mivo.tv/mp17pjqx1esapruf/mivotv_all/playlist.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR slateblue][B](::: NEWS :::)[/B][/COLOR]"  group-title="Group N/A",[COLOR slateblue][B](::: NEWS :::)[/B][/COLOR]
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR slateblue][B](::: NEWS :::)[/B][/COLOR]"  group-title="Group N/A",[COLOR slateblue][B]-==NEWS==-[/B][/COLOR]
 http://50.7.96.210:8285
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="AL JAZEERA ENGLISH"  group-title="News",AL JAZEERA ENGLISH
@@ -99,7 +99,7 @@ http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NASA TV HD"  group-title="Group N/A",NASA TV HD
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR fuchsia][B](::: KIDS :::)[/B][/COLOR]"  group-title="Group N/A",[COLOR fuchsia][B](::: KIDS :::)[/B][/COLOR]
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR fuchsia][B](::: KIDS :::)[/B][/COLOR]"  group-title="Group N/A",[COLOR fuchsia][B](-==KIDS==-[/B][/COLOR]
 http://50.7.96.210:8285
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="KIDS PLAY"  group-title="Group N/A",KIDS PLAY
@@ -111,7 +111,7 @@ http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/p
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="JEI ENGLISH TV"  group-title="Group N/A",JEI ENGLISH TV
 http://123.108.164.71/etv2sb/phd15/lihattv.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR aquamarine][B](::: DOCUMENTARY :::)[/B][/COLOR]"  group-title="Group N/A",[COLOR aquamarine][B](::: DOCUMENTARY :::)[/B][/COLOR]
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR aquamarine][B](::: DOCUMENTARY :::)[/B][/COLOR]"  group-title="Group N/A",[COLOR aquamarine][B]-==DOCUMENTARY=--)[/B][/COLOR]
 http://50.7.96.210:8285
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Discovery UK"  group-title="Group N/A",Discovery UK
@@ -126,7 +126,7 @@ http://fr456.edem.tv/iptv/LZ3NMTRTBEN8ET/140/index.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Cooking Channel"  group-title="Group N/A",Cooking Channel
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/10.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR springgreen][B](::: FAMILY :::)[/B][/COLOR]"  group-title="Group N/A",[COLOR springgreen][B](::: FAMILY :::)[/B][/COLOR]
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR springgreen][B](::: FAMILY :::)[/B][/COLOR]"  group-title="Group N/A",[COLOR springgreen][B]-==FAMILY==-)[/B][/COLOR]
 http://50.7.96.210:8285
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX Movies Premium (Indo Sub)"  group-title="Group N/A",FOX Movies Premium (Indo Sub)
@@ -171,7 +171,7 @@ http://top-iptv.zapto.org:8000/live/adem/adem/648.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK: Sky Atlantic HD"  group-title="Group N/A",UK: Sky Atlantic HD
 http://top-iptv.zapto.org:8000/live/adem/adem/753.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR cyan][B](::: MUSIC :::)[/B][/COLOR]"  group-title="Group N/A",[COLOR cyan][B](::: MUSIC :::)[/B][/COLOR]
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR cyan][B](::: MUSIC :::)[/B][/COLOR]"  group-title="Group N/A",[COLOR cyan][B]-==MUSIC=--[/B][/COLOR]
 http://50.7.96.210:8285
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="VEVO 1 HD"  group-title="Group N/A",VEVO 1 HD
@@ -186,7 +186,7 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ONE 1 HD"  group-title="Group N/A",ONE 1 HD
 http://rtmp.one.by:1300
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR crimson][B](::: SPORTS :::)[/B][/COLOR](23-10-15)"  group-title="Group N/A",[COLOR crimson][B](::: SPORTS :::)[/B][/COLOR](23-10-15)
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR crimson][B](::: SPORTS :::)[/B][/COLOR](23-10-15)"  group-title="Group N/A",[COLOR crimson][B]-==SPORTS==-[/B][/COLOR](23-10-15)
 http://50.7.96.210:8285
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[B]*BACKUP BPL LIVE[/B]"  group-title="Group N/A",[B]*BACKUP BPL LIVE[/B]
@@ -255,7 +255,7 @@ http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/Sporttime
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sport Time TV6"  group-title="Group N/A",Sport Time TV6
 http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel6_1200.mp4.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR yellow][B]((Video On Demand))[/B][/COLOR]"  group-title="Group N/A",[COLOR yellow][B]((Video On Demand))[/B][/COLOR]
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR yellow][B]((Video On Demand))[/B][/COLOR]"  group-title="Group N/A",[COLOR yellow][B]-Video On Demand-[/B][/COLOR]
 http://60.49.100.124:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Polis Evo (2015) [1080p]"  group-title="Group N/A",Polis Evo (2015) [1080p]
@@ -291,7 +291,7 @@ http://goo.gl/zZuzpA
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR gold][B]::VPS dari 'monster_forex'::[/B][/COLOR]"  group-title="Group N/A",[COLOR gold][B]::VPS dari 'monster_forex'::[/B][/COLOR]
 http://60.49.100.124:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR yellow][B]((Video On Demand KIDS))[/B][/COLOR]"  group-title="Group N/A",[COLOR yellow][B]((Video On Demand KIDS))[/B][/COLOR]
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR yellow][B]((Video On Demand KIDS))[/B][/COLOR]"  group-title="Group N/A",[COLOR yellow][B]-Video On Demand KIDS-[/B][/COLOR]
 http://60.49.100.124:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Minions (2015) [1080p]"  group-title="Group N/A",Minions (2015) [1080p]
@@ -318,7 +318,7 @@ http://www.deadlyblogger.com/NewRelease/legomovie2014.mp4
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Turbo"  group-title="Group N/A",Turbo
 http://www.deadlyblogger.com/NewRelease/turbo.mp4
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR gold][B](::: RADIO :::)[/B][/COLOR]"  group-title="Group N/A",[COLOR gold][B](::: RADIO :::)[/B][/COLOR]
+#EXTINF:0, tvg-id="EPG N/A" [COLOR gold][B]MKodi[/B][/COLOR]
 http://50.7.96.210:8285
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="IKIM FM"  group-title="Radio" radio=true,IKIM FM
@@ -366,3 +366,5 @@ http://starrfm.rastream.com/starrfm-redfm?type=.flv
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/lite.png" tvg-name="LITE FM"  group-title="Radio" radio=true,LITE FM
 http://astro1.rastream.com/lite?type=.flv
 
+#EXTINF:0, tvg-id="EPG N/A" [COLOR gold][B]MKodi[/B][/COLOR]
+http://50.7.96.210:8285
