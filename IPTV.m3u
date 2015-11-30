@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="tv9.png" tvg-logo="http://dev.mediaprima.com.my/wp-content/uploads/2014/05/tv9.png" group-title="TVMALAYSIA",TV9 MALAYSIA
+http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master.m3u8
+
 #EXTINF:0, tvg-logo="http://myiptv.site40.net/logos/tv1.png"  group-title="Malaysia",TV1
 http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch001.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1448939696&myTokenPrefixhash=c5G97gQGlgEzwvgNSqWjYwROhBJ5JHpNcNvfxZt-uJI=
 
