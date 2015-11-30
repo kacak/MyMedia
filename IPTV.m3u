@@ -186,7 +186,7 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ONE 1 HD"  group-title="Group N/A",ONE 1 HD
 http://rtmp.one.by:1300
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR crimson][B](::: SPORTS :::)[/B][/COLOR](23-10-15)"  group-title="Group N/A",[COLOR crimson][B]-==SPORTS==-[/B][/COLOR](23-10-15)
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR crimson][B](::: SPORTS :::)[/B][/COLOR](23-10-15)"  group-title="Group N/A",[COLOR crimson][B]-==SPORTS==-[/B][/COLOR]
 http://50.7.96.210:8285
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[B]*BACKUP BPL LIVE[/B]"  group-title="Group N/A",[B]*BACKUP BPL LIVE[/B]
@@ -318,7 +318,7 @@ http://www.deadlyblogger.com/NewRelease/legomovie2014.mp4
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Turbo"  group-title="Group N/A",Turbo
 http://www.deadlyblogger.com/NewRelease/turbo.mp4
 
-#EXTINF:0, tvg-id="EPG N/A" [COLOR gold][B]MKodi[/B][/COLOR]
+#EXTINF:0, tvg-id="EPG N/A" ,[COLOR gold][B]MKodi[/B][/COLOR]
 http://50.7.96.210:8285
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="IKIM FM"  group-title="Radio" radio=true,IKIM FM
@@ -366,5 +366,5 @@ http://starrfm.rastream.com/starrfm-redfm?type=.flv
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/lite.png" tvg-name="LITE FM"  group-title="Radio" radio=true,LITE FM
 http://astro1.rastream.com/lite?type=.flv
 
-#EXTINF:0, tvg-id="EPG N/A" [COLOR gold][B]MKodi[/B][/COLOR]
+#EXTINF:0, tvg-id="EPG N/A" ,[COLOR gold][B]MKodi[/B][/COLOR]
 http://50.7.96.210:8285
