@@ -321,7 +321,7 @@ http://50.7.96.210:8285
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="IKIM FM"  group-title="Radio" radio=true ,IKIM FM
 http://50.7.96.210:8285/;stream.mp3
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/era.png" tvg-name="ERA FM"  group-title="Radio" radio=true ,ERA FM
+#EXTINF:0, tvg-id="ERA" tvg-logo="http://myiptv.site40.net/logos/era.png" tvg-name="ERA FM"  group-title="Radio" radio=true ,ERA FM
 http://astro2.rastream.com/era?type=.flv
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://dev.mediaprima.com.my/wp-content/uploads/2014/06/hot-fm.png" tvg-name="HOT FM"  group-title="Radio" radio=true ,HOT FM
@@ -339,7 +339,7 @@ http://starrfm.rastream.com/starrfm-suria?type=.flv&_=0.27098811650648713
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/thr.png" tvg-name="THR GEGAR"  group-title="Radio" radio=true ,THR GEGAR
 http://astro3.rastream.com/gegar?type=.flv&_=0.7412667996250093
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SINAR FM"  group-title="Radio" radio=true ,SINAR FM
+#EXTINF:0, tvg-id="Sinar FM" tvg-logo="Logo N/A" tvg-name="SINAR FM"  group-title="Radio" radio=true ,SINAR FM
 http://astro2.rastream.com/sinar?type=.flv
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/xfm.png" tvg-name="XFRESH FM"  group-title="Radio" radio=true ,XFRESH FM
@@ -348,7 +348,7 @@ http://audri.rastream.com/amp-xfm_audri?type=.flv
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Bapakku FM"  group-title="Radio" radio=true ,Bapakku FM
 http://radio.bapakku.fm:8000
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/hitz.png" tvg-name="HITZ FM"  group-title="Radio" radio=true ,HITZ FM
+#EXTINF:0, tvg-id="hitz.fm" tvg-logo="http://myiptv.site40.net/logos/hitz.png" tvg-name="HITZ FM"  group-title="Radio" radio=true ,HITZ FM
 http://astro1.rastream.com/hitz?type=.flv
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/mix.png" tvg-name="MIX FM"  group-title="Radio" radio=true ,MIX FM
