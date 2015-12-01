@@ -141,16 +141,16 @@ http://123.108.164.71/etv2sb/phd743/lihattv.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DRAMA WORLD"  group-title="Group N/A",DRAMA WORLD
 http://123.108.164.71/etv2sb/phd505/lihattv.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Warner HD"  group-title="Group N/A",Fox Crime
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Warner HD"  group-title="Group N/A",Warner HD
 http://103.245.167.28/tot/5028f7ff1d1b4d5f8189690233364737.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox Crime HD"  group-title="Group N/A",Universal
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox Crime HD"  group-title="Group N/A",Fox Crime HD
 http://103.245.167.28/tot/a7105ed1bb0a44bba1f4f71f2352b892.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="KIX HD"  group-title="Group N/A",Warner
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="KIX HD"  group-title="Group N/A",KIX HD
 http://103.245.167.28/tot/06e717f5ec0c4657a8c76c4dfcf9449b.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox Crime"  group-title="Group N/A",Syfy
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox Crime"  group-title="Group N/A",Fox Crime
 http://103.245.167.28/tot/71f197de056e499a85265c03b44bdab1.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR cyan][B]-==MUSIC=--[/B][/COLOR]"  group-title="Group N/A",[COLOR cyan][B]-==MUSIC=--[/B][/COLOR]
