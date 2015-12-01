@@ -189,6 +189,9 @@ http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_10
 #EXTINF:-1,CDN Sports Max
 http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
 
+#EXTINF:-1, Sports Tonight
+rtmp://freeview.fms.visionip.tv:1935
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SuperSport 1"  group-title="Group N/A",SuperSport 1
 http://erol74y7la.servep2p.com/mHyifxGiDv/assp1/playlist.m3u8
 
