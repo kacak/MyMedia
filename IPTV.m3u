@@ -183,6 +183,12 @@ http://50.7.96.210:8285
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[B]http://alturl.com/xwi6j[/B]"  group-title="Group N/A",[B]http://alturl.com/xwi6j[/B]
 http://alturl.com/xwi6j
 
+#EXTINF:0, Euro Sports 1
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+
+#EXTINF:-1,CDN Sports Max
+http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SuperSport 1"  group-title="Group N/A",SuperSport 1
 http://erol74y7la.servep2p.com/mHyifxGiDv/assp1/playlist.m3u8
 
