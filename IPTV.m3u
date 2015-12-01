@@ -4,7 +4,7 @@
 http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch001.smil/chunklist_w312085892_b564000_tkbXlUb2tlblByZWZpeHN0YXJ0dGltZT0wJm15VG9rZW5QcmVmaXhlbmR0aW1lPTE0NDk1NzQxNzAmbXlUb2tlblByZWZpeGhhc2g9eG1waXJmQ1lzQTgtQ2d0Q0ZpcDNQcVE3dFRycE1FY1FZXzc0THIyUlBnND0=.m3u8
 
 #EXTINF:0, tvg-id="TV 2" tvg-logo="http://myiptv.site40.net/logos/tv2.png" tvg-name="TV2"  group-title="Malaysia",TV2
-http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch002.smil/chunklist_w1764059553_b564000_tkbXlUb2tlblByZWZpeHN0YXJ0dGltZT0wJm15VG9rZW5QcmVmaXhlbmR0aW1lPTE0NDk1NzQzNjAmbXlUb2tlblByZWZpeGhhc2g9NTk3bi11YkY2cjVSX3hWVjRmSE5RRDZSbG9FSElhaDhaSy02MXBQd0lIQT0=.m3u8
+http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch002_international.smil/chunklist_w281317981_b564000_tkbXlUb2tlblByZWZpeHN0YXJ0dGltZT0wJm15VG9rZW5QcmVmaXhlbmR0aW1lPTE0NDk0OTI5OTcmbXlUb2tlblByZWZpeGhhc2g9N2p4dThpdFdrd2ZnVU9wSEtTQUxBOVFSdjUzRVNkRF9HRGJ0MVVYc214UT0=.m3u8
 
 #EXTINF:0, tvg-id="TV 3" tvg-logo="http://dev.mediaprima.com.my/wp-content/uploads/2014/05/tv3.png" tvg-name="TV3"  group-title="Malaysia",TV3
 http://tv3liveios-i.akamaihd.net/hls/live/205900/ios/tv3live/master.m3u8
