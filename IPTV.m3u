@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:0, tvg-id="TV 1" tvg-logo="http://myiptv.site40.net/logos/tv1.png" tvg-name="TV1"  group-title="Malaysia",TV1
-http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch001.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1448939696&myTokenPrefixhash=c5G97gQGlgEzwvgNSqWjYwROhBJ5JHpNcNvfxZt-uJI=
+http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:mobile_rtm-ch001.smil/chunklist_w1109331850_b364000_tkbXlUb2tlblByZWZpeHN0YXJ0dGltZT0wJm15VG9rZW5QcmVmaXhlbmR0aW1lPTE0NDkwNTQ1OTYmbXlUb2tlblByZWZpeGhhc2g9d0ZNSng0Nkx1c2swRjNKUlRZa0ZXanRpcXVNZVhXMGJQU25zclBnY2FJQT0=.m3u8
 
 #EXTINF:0, tvg-id="TV 2" tvg-logo="http://myiptv.site40.net/logos/tv2.png" tvg-name="TV2"  group-title="Malaysia",TV2
-http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch002.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1448939724&myTokenPrefixhash=rwxGaG22XxS3G7syML4OZTTqUA8sqCcPAYaeAGryMQY=
+http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:mobile_rtm-ch002.smil/chunklist_w872536366_b364000_tkbXlUb2tlblByZWZpeHN0YXJ0dGltZT0wJm15VG9rZW5QcmVmaXhlbmR0aW1lPTE0NDk1MDU4MTAmbXlUb2tlblByZWZpeGhhc2g9VkMxQTVJeXBtbnJkTHZ6ZVdkVkZPOWFJQUY2el9raUIyc0QwMDFOZTdzRT0=.m3u8
 
 #EXTINF:0, tvg-id="TV 3" tvg-logo="http://dev.mediaprima.com.my/wp-content/uploads/2014/05/tv3.png" tvg-name="TV3"  group-title="Malaysia",TV3
 http://tv3liveios-i.akamaihd.net/hls/live/205900/ios/tv3live/master.m3u8
