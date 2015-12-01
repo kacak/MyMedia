@@ -123,6 +123,9 @@ http://50.7.96.210:8285
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Nat Geo 2"  group-title="Group N/A",Nat Geo 2
 http://alturl.com/zbw8j
 
+#EXTINF:-1 tvg-logo="rtdocumentary.png", RT Documentary HD
+http://rt-lh.akamaihd.net/i/ch_05@325609/index_720p_av-b.m3u8?sd=10&rebase=on
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR springgreen][B]-==FAMILY==-)[/B][/COLOR]"  group-title="Group N/A",[COLOR springgreen][B]-==FAMILY==-)[/B][/COLOR]
 http://50.7.96.210:8285
 
