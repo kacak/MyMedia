@@ -9,6 +9,9 @@ http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:r
 #EXTINF:0, tvg-id="TV 3" tvg-logo="http://dev.mediaprima.com.my/wp-content/uploads/2014/05/tv3.png" tvg-name="TV3"  group-title="Malaysia",TV3
 http://tv3liveios-i.akamaihd.net/hls/live/205900/ios/tv3live/master.m3u8
 
+#EXTINF:0, tvg-id="TV Parlimen" tvg-name="TV Parlimen" group-title="Malaysia",TV3
+http://d22b8vh21p20bg.cloudfront.net/mylive/parlimen_600k/chunklist_w1754380350.m3u8
+
 #EXTINF:0, tvg-id="NTV7" tvg-logo="http://dev.mediaprima.com.my/wp-content/uploads/2014/05/ntv7.png" tvg-name="NTV7"  group-title="Malaysia",NTV7
 http://ntv7liveios-i.akamaihd.net/hls/live/205902/ios/ntv7live/master.m3u8
 
@@ -41,6 +44,12 @@ http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:r
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR deepskyblue][B]-==INDONESIA==-[/B][/COLOR]"  group-title="Group N/A",[COLOR deepskyblue][B]-==INDONESIA==-[/B][/COLOR]
 http://lihattv.com/?player=5306
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RCTI"  group-title="Group N/A",RCTI
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/rcti2_all/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SCTV"  group-title="Group N/A",SCTV
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/sctv2_all/playlist.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TRANS7"  group-title="Group N/A",TRANS7
 http://edge.nim.mivo.tv/mp17pjqx1esapruf/trans72_all/playlist.m3u8
