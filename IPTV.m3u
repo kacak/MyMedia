@@ -48,19 +48,19 @@ http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:r
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR deepskyblue][B]-==INDONESIA==-[/B][/COLOR]"  group-title="Group N/A",[COLOR deepskyblue][B]-==INDONESIA==-[/B][/COLOR]
 http://lihattv.com/?player=5306
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RCTI"  group-title="Group N/A",RCTI
+#EXTINF:0, tvg-id="RCTI" tvg-logo="Logo N/A" tvg-name="RCTI"  group-title="Group N/A",RCTI
 http://edge.nim.mivo.tv/mp17pjqx1esapruf/rcti2_all/playlist.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SCTV"  group-title="Group N/A",SCTV
+#EXTINF:0, tvg-id="SCTV" tvg-logo="Logo N/A" tvg-name="SCTV"  group-title="Group N/A",SCTV
 http://edge.nim.mivo.tv/mp17pjqx1esapruf/sctv2_all/playlist.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TRANS7"  group-title="Group N/A",TRANS7
+#EXTINF:0, tvg-id="Trans7" tvg-logo="Logo N/A" tvg-name="TRANS7"  group-title="Group N/A",TRANS7
 http://edge.nim.mivo.tv/mp17pjqx1esapruf/trans72_all/playlist.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TRANSTV"  group-title="Group N/A",TRANSTV
+#EXTINF:0, tvg-id="TransTV" tvg-logo="Logo N/A" tvg-name="TRANSTV"  group-title="Group N/A",TRANSTV
 http://edge.nim.mivo.tv/mp17pjqx1esapruf/transtv2_all/playlist.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="INDOSIAR"  group-title="Group N/A",INDOSIAR
+#EXTINF:0, tvg-id="Indosiar" tvg-logo="Logo N/A" tvg-name="INDOSIAR"  group-title="Group N/A",INDOSIAR
 http://edge.nim.mivo.tv/mp17pjqx1esapruf/indosiar2_all/playlist.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="KOMPAS TV"  group-title="Group N/A",KOMPAS TV
