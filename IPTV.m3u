@@ -28,7 +28,7 @@ http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master.m3u8
 http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch003.smil/chunklist_w188536836_b564000_tkbXlUb2tlblByZWZpeHN0YXJ0dGltZT0wJm15VG9rZW5QcmVmaXhlbmR0aW1lPTE0NDk2OTMzOTYmbXlUb2tlblByZWZpeGhhc2g9Vm1CVnNsYTFlS2FGYmxCcDVCUk1uVmJWazM5Mno3MFY1NnI3LXppRmNvQT0=.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/galaksi.png" tvg-name="MUZIK AKTIF"  group-title="Malaysia",MUZIK AKTIF
-http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch004.smil/chunklist_w975788170_b564000_tkbXlUb2tlblByZWZpeHN0YXJ0dGltZT0wJm15VG9rZW5QcmVmaXhlbmR0aW1lPTE0NDk2OTMwMTQmbXlUb2tlblByZWZpeGhhc2g9NGVBakZzV3Bqb2RsRU90NnQ2TmZUZFlta2ltU0x0WFRCY2JIdW9wRk1FTT0=.m3u8
+http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch005.smil/chunklist_w1073709474_b564000_tkbXlUb2tlblByZWZpeHN0YXJ0dGltZT0wJm15VG9rZW5QcmVmaXhlbmR0aW1lPTE0NDk2OTM5ODMmbXlUb2tlblByZWZpeGhhc2g9azRJZTZZM25IY0ZwSkpZYWpiajVTbTJ1VHRlRURwNTdETjFrQTNnTHBLYz0=.m3u8
 
 #EXTINF:0, tvg-id="Al-Hijrah" tvg-logo="Logo N/A" tvg-name="TV Al-Hijrah"  group-title="Group N/A",TV Al-Hijrah
 http://d2f9tqsihrp4sc.cloudfront.net/livecf/smil:tvah_hypptv.smil/playlist.m3u8
