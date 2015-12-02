@@ -7,7 +7,7 @@ http://edge.cdn.aims.com.my/live/Raffcomm/rtmtv1/chunklist.m3u8
 http://edge.cdn.aims.com.my/live/Raffcomm/rtmtv2/chunklist.m3u8
 
 #EXTINF:0, tvg-id="TV 3" tvg-logo="http://dev.mediaprima.com.my/wp-content/uploads/2014/05/tv3.png" tvg-name="TV3"  group-title="Malaysia",TV3
-http://tv3liveios-i.akamaihd.net/hls/live/205900/ios/tv3live/master.m3u8
+http://tv3liveflash-lh.akamaihd.net/z/tv3live_1@86099/manifest.f4m?hdcore=2.7.6&g=MRKYJGQREBNC
 
 #EXTINF:0, tvg-id="MARATV" tvg-name="MARATV" group-title="Malaysia",MARA TV
 http://stream2.1malaysiaiptv.com/mylive/smil:maratv_all.smil/playlist.m3u8
