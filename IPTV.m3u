@@ -63,13 +63,13 @@ http://edge.nim.mivo.tv/mp17pjqx1esapruf/transtv2_all/playlist.m3u8
 #EXTINF:0, tvg-id="Indosiar" tvg-logo="Logo N/A" tvg-name="INDOSIAR"  group-title="Group N/A",INDOSIAR
 http://edge.nim.mivo.tv/mp17pjqx1esapruf/indosiar2_all/playlist.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="KOMPAS TV"  group-title="Group N/A",KOMPAS TV
+#EXTINF:0, tvg-id="kompas-tv" tvg-logo="Logo N/A" tvg-name="KOMPAS TV"  group-title="Group N/A",KOMPAS TV
 http://edge.nim.mivo.tv/mp17pjqx1esapruf/kompastv_all/playlist.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ANTARA TV"  group-title="Group N/A",ANTARA TV
 http://edge.nim.mivo.tv/mp17pjqx1esapruf/antaratv_all/playlist.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeritaSatu WORLD HD"  group-title="Group N/A",BeritaSatu WORLD HD
+#EXTINF:0, tvg-id="berita-satu-hd" tvg-logo="Logo N/A" tvg-name="BeritaSatu WORLD HD"  group-title="Group N/A",BeritaSatu WORLD HD
 http://stream.beritasatu.com:8134/world.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Metro NEWS HD"  group-title="Group N/A",Metro NEWS HD
