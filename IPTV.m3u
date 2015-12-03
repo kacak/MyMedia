@@ -1,12 +1,12 @@
 #EXTM3U
 
-#EXTINF:0, tvg-id="TV 1" tvg-logo="ICON N/A" tvg-name="TV1"  group-title="Malaysia",TV1
+#EXTINF:0, tvg-id="TV 1" tvg-logo="tv1.png" tvg-name="TV1"  group-title="Malaysia",TV1
 http://edge.cdn.aims.com.my/live/Raffcomm/rtmtv1/chunklist.m3u8
 
-#EXTINF:0, tvg-id="TV 2" tvg-logo="http://myiptv.site40.net/logos/tv2.png" tvg-name="TV2"  group-title="Malaysia",TV2
+#EXTINF:0, tvg-id="TV 2" tvg-logo="tv2.png" tvg-name="TV2"  group-title="Malaysia",TV2
 http://edge.cdn.aims.com.my/live/Raffcomm/rtmtv2/chunklist.m3u8
 
-#EXTINF:0, tvg-id="TV 3" tvg-logo="http://dev.mediaprima.com.my/wp-content/uploads/2014/05/tv3.png" tvg-name="TV3"  group-title="Malaysia",TV3
+#EXTINF:0, tvg-id="TV 3" tvg-logo="tv3.png" tvg-name="TV3"  group-title="Malaysia",TV3
 http://sg.layarku.tv:1935/edge/149_323_live/chunklist_w154676771.m3u8
 
 #EXTINF:0, tvg-id="MARATV" tvg-name="MARATV" group-title="Malaysia",MARA TV
