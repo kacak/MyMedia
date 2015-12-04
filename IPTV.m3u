@@ -1,66 +1,66 @@
 #EXTM3U
 
-#EXTINF:0, tvg-id="TV 1" tvg-logo="special://xbmc/addons/pvr.iptvsimple/data/tv1.png" tvg-name="TV1"  group-title="Malaysia",TV1
+#EXTINF:0, tvg-id="TV 1" tvg-logo="special://xbmc/addons/pvr.iptvsimple/media/tv1.png" tvg-name="TV1"  group-title="Malaysia",TV1
 http://edge.cdn.aims.com.my/live/Raffcomm/rtmtv1/chunklist.m3u8
 
-#EXTINF:0, tvg-id="TV 2" tvg-logo="special://xbmc/addons/pvr.iptvsimple/data/tv2.png" tvg-name="TV2"  group-title="Malaysia",TV2
+#EXTINF:0, tvg-id="TV 2" tvg-logo="special://xbmc/addons/pvr.iptvsimple/media/tv2.png" tvg-name="TV2"  group-title="Malaysia",TV2
 http://edge.cdn.aims.com.my/live/Raffcomm/rtmtv2/chunklist.m3u8
 
-#EXTINF:0, tvg-id="TV 3" tvg-logo="special://xbmc/addons/pvr.iptvsimple/data/tv3.png" tvg-name="TV3"  group-title="Malaysia",TV3
+#EXTINF:0, tvg-id="TV 3" tvg-logo="special://xbmc/addons/pvr.iptvsimple/media/tv3.png" tvg-name="TV3"  group-title="Malaysia",TV3
 http://sg.layarku.tv:1935/edge/149_323_live/chunklist_w154676771.m3u8
 
-#EXTINF:0, tvg-id="MARATV" tvg-logo="special://xbmc/addons/pvr.iptvsimple/data/mara.png" tvg-name="MARATV" group-title="Malaysia",MARA TV
+#EXTINF:0, tvg-id="MARATV" tvg-logo="special://xbmc/addons/pvr.iptvsimple/media/mara.png" tvg-name="MARATV" group-title="Malaysia",MARA TV
 http://stream2.1malaysiaiptv.com/mylive/smil:maratv_all.smil/playlist.m3u8
 
-#EXTINF:0, tvg-id="TV Parlimen" tvg-logo="special://xbmc/addons/pvr.iptvsimple/data/tvparlimen.png" tvg-name="TV Parlimen" group-title="Malaysia",TV Parlimen
+#EXTINF:0, tvg-id="TV Parlimen" tvg-logo="special://xbmc/addons/pvr.iptvsimple/media/tvparlimen.png" tvg-name="TV Parlimen" group-title="Malaysia",TV Parlimen
 http://d22b8vh21p20bg.cloudfront.net/mylive/parlimen_600k/chunklist_w1754380350.m3u8
 
-#EXTINF:0, tvg-id="NTV7" tvg-logo="special://xbmc/addons/pvr.iptvsimple/data/ntv7.png" tvg-name="NTV7"  group-title="Malaysia",NTV7
+#EXTINF:0, tvg-id="NTV7" tvg-logo="special://xbmc/addons/pvr.iptvsimple/media/ntv7.png" tvg-name="NTV7"  group-title="Malaysia",NTV7
 http://ntv7liveios-i.akamaihd.net/hls/live/205902/ios/ntv7live/master.m3u8
 
-#EXTINF:0, tvg-id="8TV" tvg-logo="special://xbmc/addons/pvr.iptvsimple/data/8tv.png" tvg-name="8TV"  group-title="Malaysia",8TV
+#EXTINF:0, tvg-id="8TV" tvg-logo="special://xbmc/addons/pvr.iptvsimple/media/8tv.png" tvg-name="8TV"  group-title="Malaysia",8TV
 http://8tvliveios-i.akamaihd.net/hls/live/205901/ios/8tvlive/master.m3u8
 
-#EXTINF:0, tvg-id="TV 9" tvg-logo="special://xbmc/addons/pvr.iptvsimple/data/tv9.png" tvg-name="TV9"  group-title="Malaysia",TV9
+#EXTINF:0, tvg-id="TV 9" tvg-logo="special://xbmc/addons/pvr.iptvsimple/media/tv9.png" tvg-name="TV9"  group-title="Malaysia",TV9
 http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master.m3u8
 
-#EXTINF:0, tvg-id="TVi" tvg-logo="special://xbmc/addons/pvr.iptvsimple/data/tvi.png" tvg-name="TVi"  group-title="Malaysia",TVi
+#EXTINF:0, tvg-id="TVi" tvg-logo="special://xbmc/addons/pvr.iptvsimple/media/tvi.png" tvg-name="TVi"  group-title="Malaysia",TVi
 http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch003.smil/chunklist_w188536836_b564000_tkbXlUb2tlblByZWZpeHN0YXJ0dGltZT0wJm15VG9rZW5QcmVmaXhlbmR0aW1lPTE0NDk2OTMzOTYmbXlUb2tlblByZWZpeGhhc2g9Vm1CVnNsYTFlS2FGYmxCcDVCUk1uVmJWazM5Mno3MFY1NnI3LXppRmNvQT0=.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="special://xbmc/addons/pvr.iptvsimple/data/galaksi.png" tvg-name="MUZIK AKTIF"  group-title="Malaysia",MUZIK AKTIF
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="special://xbmc/addons/pvr.iptvsimple/media/galaksi.png" tvg-name="MUZIK AKTIF"  group-title="Malaysia",MUZIK AKTIF
 http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch005.smil/chunklist_w1073709474_b564000_tkbXlUb2tlblByZWZpeHN0YXJ0dGltZT0wJm15VG9rZW5QcmVmaXhlbmR0aW1lPTE0NDk2OTM5ODMmbXlUb2tlblByZWZpeGhhc2g9azRJZTZZM25IY0ZwSkpZYWpiajVTbTJ1VHRlRURwNTdETjFrQTNnTHBLYz0=.m3u8
 
-#EXTINF:0, tvg-id="Al-Hijrah" tvg-logo="special://xbmc/addons/pvr.iptvsimple/data/alhijrah.png" tvg-name="TV Al-Hijrah"  group-title="Group N/A",TV Al-Hijrah
+#EXTINF:0, tvg-id="Al-Hijrah" tvg-logo="special://xbmc/addons/pvr.iptvsimple/media/alhijrah.png" tvg-name="TV Al-Hijrah"  group-title="Group N/A",TV Al-Hijrah
 http://d2f9tqsihrp4sc.cloudfront.net/livecf/smil:tvah_hypptv.smil/playlist.m3u8
 
-#EXTINF:0, tvg-id="KBS World" tvg-logo="special://xbmc/addons/pvr.iptvsimple/data/kbsworld.png" tvg-name="KBS WORLD"  group-title="Group N/A",KBS WORLD
+#EXTINF:0, tvg-id="KBS World" tvg-logo="special://xbmc/addons/pvr.iptvsimple/media/kbsworld.png" tvg-name="KBS WORLD"  group-title="Group N/A",KBS WORLD
 http://vtv.live.cdn.fptplay.net/vtvlive/smil:kbs_hls.smil/chunklist.m3u8
 
-#EXTINF:0, tvg-id="Astro Awani" tvg-logo="special://xbmc/addons/pvr.iptvsimple/data/awani.png" tvg-name="Awani"  group-title="Group N/A",Awani
+#EXTINF:0, tvg-id="Astro Awani" tvg-logo="special://xbmc/addons/pvr.iptvsimple/media/awani.png" tvg-name="Awani"  group-title="Group N/A",Awani
 http://awaniioslive-i.akamaihd.net/hls/live/207096-b/awaniIOSLiveStream@207096/awani_stream.m3u8
 
-#EXTINF:0, tvg-id="Bernama TV" tvg-logo="special://xbmc/addons/pvr.iptvsimple/data/bernama.png" tvg-name="Bernama"  group-title="Group N/A",Bernama
+#EXTINF:0, tvg-id="Bernama TV" tvg-logo="special://xbmc/addons/pvr.iptvsimple/media/bernama.png" tvg-name="Bernama"  group-title="Group N/A",Bernama
 http://d22b8vh21p20bg.cloudfront.net/mylive/smil:bernama2_all.smil/chunklist_w774237887_b878000_sleng.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="special://xbmc/addons/pvr.iptvsimple/data/1news.png" tvg-name="1NEWS"  group-title="Malaysia",1NEWS
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="special://xbmc/addons/pvr.iptvsimple/media/1news.png" tvg-name="1NEWS"  group-title="Malaysia",1NEWS
 http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch006.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1448939814&myTokenPrefixhash=ETalAYCShHTGxF0z-LhKej7Sx1gB6U1v9knEl1SUXl4=
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR deepskyblue][B]-==INDONESIA==-[/B][/COLOR]"  group-title="Group N/A",[COLOR deepskyblue][B]-==INDONESIA==-[/B][/COLOR]
 http://lihattv.com/?player=5306
 
-#EXTINF:0, tvg-id="RCTI" tvg-logo="special://xbmc/addons/pvr.iptvsimple/data/rcti.png" tvg-name="RCTI"  group-title="Group N/A",RCTI
+#EXTINF:0, tvg-id="RCTI" tvg-logo="special://xbmc/addons/pvr.iptvsimple/media/rcti.png" tvg-name="RCTI"  group-title="Group N/A",RCTI
 http://edge.nim.mivo.tv/mp17pjqx1esapruf/rcti2_all/playlist.m3u8
 
-#EXTINF:0, tvg-id="SCTV" tvg-logo="special://xbmc/addons/pvr.iptvsimple/data/sctv.png" tvg-name="SCTV"  group-title="Group N/A",SCTV
+#EXTINF:0, tvg-id="SCTV" tvg-logo="special://xbmc/addons/pvr.iptvsimple/media/sctv.png" tvg-name="SCTV"  group-title="Group N/A",SCTV
 http://edge.nim.mivo.tv/mp17pjqx1esapruf/sctv2_all/playlist.m3u8
 
-#EXTINF:0, tvg-id="Trans7" tvg-logo="special://xbmc/addons/pvr.iptvsimple/data/trans7.png" tvg-name="TRANS7"  group-title="Group N/A",TRANS7
+#EXTINF:0, tvg-id="Trans7" tvg-logo="special://xbmc/addons/pvr.iptvsimple/media/trans7.png" tvg-name="TRANS7"  group-title="Group N/A",TRANS7
 http://edge.nim.mivo.tv/mp17pjqx1esapruf/trans72_all/playlist.m3u8
 
-#EXTINF:0, tvg-id="TransTV" tvg-logo="special://xbmc/addons/pvr.iptvsimple/data/transtv.png" tvg-name="TRANSTV"  group-title="Group N/A",TRANSTV
+#EXTINF:0, tvg-id="TransTV" tvg-logo="special://xbmc/addons/pvr.iptvsimple/media/transtv.png" tvg-name="TRANSTV"  group-title="Group N/A",TRANSTV
 http://edge.nim.mivo.tv/mp17pjqx1esapruf/transtv2_all/playlist.m3u8
 
-#EXTINF:0, tvg-id="Indosiar" tvg-logo="special://xbmc/addons/pvr.iptvsimple/data/indosiar.png" tvg-name="INDOSIAR"  group-title="Group N/A",INDOSIAR
+#EXTINF:0, tvg-id="Indosiar" tvg-logo="special://xbmc/addons/pvr.iptvsimple/media/indosiar.png" tvg-name="INDOSIAR"  group-title="Group N/A",INDOSIAR
 http://edge.nim.mivo.tv/mp17pjqx1esapruf/indosiar2_all/playlist.m3u8
 
 #EXTINF:0, tvg-id="kompas-tv" tvg-logo="Logo N/A" tvg-name="KOMPAS TV"  group-title="Group N/A",KOMPAS TV
