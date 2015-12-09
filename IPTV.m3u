@@ -286,7 +286,7 @@ http://50.7.96.210:8285
 http://50.7.96.210:8285/;stream.mp3
 
 #EXTINF:0, tvg-id="ERA" tvg-logo="http://myiptv.site40.net/logos/era.png" tvg-name="ERA FM"  group-title="Radio" radio=true ,ERA FM
-http://astro2.rastream.com/era?type=.flv
+http://astro2.rastream.com/era
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://dev.mediaprima.com.my/wp-content/uploads/2014/06/hot-fm.png" tvg-name="HOT FM"  group-title="Radio" radio=true ,HOT FM
 http://2343.live.streamtheworld.com/HOTFMAAC
@@ -298,34 +298,34 @@ http://2633.live.streamtheworld.com/HOTFMKELATEAAC
 http://2173.live.streamtheworld.com/HOTFMTGANUAAC
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SURIA FM"  group-title="Radio" radio=true ,SURIA FM
-http://starrfm.rastream.com/starrfm-suria?type=.flv&_=0.27098811650648713
+http://starrfm.rastream.com/starrfm-suria
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/thr.png" tvg-name="THR GEGAR"  group-title="Radio" radio=true ,THR GEGAR
-http://astro3.rastream.com/gegar?type=.flv&_=0.7412667996250093
+http://astro3.rastream.com/gegar
 
 #EXTINF:0, tvg-id="Sinar FM" tvg-logo="Logo N/A" tvg-name="SINAR FM"  group-title="Radio" radio=true ,SINAR FM
-http://astro2.rastream.com/sinar?type=.flv
+http://astro2.rastream.com/sinar
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/xfm.png" tvg-name="XFRESH FM"  group-title="Radio" radio=true ,XFRESH FM
-http://audri.rastream.com/amp-xfm_audri?type=.flv
+http://audri.rastream.com/amp-xfm_audri
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Bapakku FM"  group-title="Radio" radio=true ,Bapakku FM
 http://radio.bapakku.fm:8000
 
 #EXTINF:0, tvg-id="hitz.fm" tvg-logo="http://myiptv.site40.net/logos/hitz.png" tvg-name="HITZ FM"  group-title="Radio" radio=true ,HITZ FM
-http://astro1.rastream.com/hitz?type=.flv
+http://astro1.rastream.com/hitz
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/mix.png" tvg-name="MIX FM"  group-title="Radio" radio=true ,MIX FM
-http://astro2.rastream.com/mix?type=.flv
+http://astro2.rastream.com/mix
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://dev.mediaprima.com.my/wp-content/uploads/2014/06/fly-fm.png" tvg-name="FLY FM"  group-title="Radio" radio=true ,FLY FM
 http://2283.live.streamtheworld.com/FLYFM_SC
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RED FM"  group-title="Radio" radio=true ,RED FM
-http://starrfm.rastream.com/starrfm-redfm?type=.flv
+http://starrfm.rastream.com/starrfm-redfm
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/lite.png" tvg-name="LITE FM"  group-title="Radio" radio=true ,LITE FM
-http://astro1.rastream.com/lite?type=.flv
+http://astro1.rastream.com/lite
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR gold][B]MKodi[/B][/COLOR]"  group-title="Group N/A",[COLOR gold][B]MKodi[/B][/COLOR]
 http://50.7.96.210:8285
