@@ -9,6 +9,9 @@ http://edge.cdn.aims.com.my/live/Raffcomm/rtmtv2/chunklist.m3u8
 #EXTINF:0, tvg-id="TV 3" tvg-logo="tv3.png" tvg-name="TV3"  group-title="Malaysia",TV3
 http://sg.layarku.tv:1935/edge/149_323_live/chunklist_w154676771.m3u8
 
+#EXTINF:0, tvg-id="Astro Ria" tvg-logo="tv3.png" tvg-name="Ria"  group-title="Malaysia",Astro Ria
+http://penang.layarku.tv/edge/149_327_live/chunklist_w1095343200.m3u8
+
 #EXTINF:0, tvg-id="MARATV" tvg-logo="mara.png" tvg-name="MARATV" group-title="Malaysia",MARA TV
 http://stream2.1malaysiaiptv.com/mylive/smil:maratv_all.smil/playlist.m3u8
 
