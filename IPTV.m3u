@@ -7,7 +7,7 @@ http://edge.cdn.aims.com.my/live/Raffcomm/rtmtv1/chunklist.m3u8
 http://edge.cdn.aims.com.my/live/Raffcomm/rtmtv2/chunklist.m3u8
 
 #EXTINF:0, tvg-id="TV 3" tvg-logo="tv3.png" tvg-name="TV3"  group-title="Malaysia",TV3
-tv3liveios-i.akamaihd.net/hls/live/205900/ios/tv3live/master002.m3u8%7CX-Forwarded-For=42.154.55.155
+http://tv3liveios-i.akamaihd.net/hls/live/205900/ios/tv3live/master.m3u8
 
 #EXTINF:0, tvg-id="Astro Ria" tvg-logo="tv3.png" tvg-name="Ria"  group-title="Malaysia",Astro Ria
 http://penang.layarku.tv/edge/149_327_live/chunklist_w1095343200.m3u8
