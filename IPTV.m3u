@@ -28,10 +28,10 @@ http://8tvliveios-i.akamaihd.net/hls/live/205901/ios/8tvlive/master.m3u8
 http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master.m3u8
 
 #EXTINF:0, tvg-id="TVi" tvg-logo="tvi.png" tvg-name="TVi"  group-title="Malaysia",TVi
-http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch003.smil/chunklist_w188536836_b564000_tkbXlUb2tlblByZWZpeHN0YXJ0dGltZT0wJm15VG9rZW5QcmVmaXhlbmR0aW1lPTE0NDk2OTMzOTYmbXlUb2tlblByZWZpeGhhc2g9Vm1CVnNsYTFlS2FGYmxCcDVCUk1uVmJWazM5Mno3MFY1NnI3LXppRmNvQT0=.m3u8
+http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch003.smil/chunklist_w2052260095_b564000_tkbXlUb2tlblByZWZpeHN0YXJ0dGltZT0wJm15VG9rZW5QcmVmaXhlbmR0aW1lPTE0NTA2NTUyMTEmbXlUb2tlblByZWZpeGhhc2g9TVJ4S2xXYm4zVVI4YmtOSHY4eUVrcDBuMk5OOElUZWpCLURvT3BGdWIwdz0=.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="galaksi.png" tvg-name="MUZIK AKTIF"  group-title="Malaysia",MUZIK AKTIF
-http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch005.smil/chunklist_w1073709474_b564000_tkbXlUb2tlblByZWZpeHN0YXJ0dGltZT0wJm15VG9rZW5QcmVmaXhlbmR0aW1lPTE0NDk2OTM5ODMmbXlUb2tlblByZWZpeGhhc2g9azRJZTZZM25IY0ZwSkpZYWpiajVTbTJ1VHRlRURwNTdETjFrQTNnTHBLYz0=.m3u8
+http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch004.smil/chunklist_w1714112964_b564000_tkbXlUb2tlblByZWZpeHN0YXJ0dGltZT0wJm15VG9rZW5QcmVmaXhlbmR0aW1lPTE0NTA2NTYwNDYmbXlUb2tlblByZWZpeGhhc2g9VGc3b2NhOUtCVi1KYnBNQ3pETk4weTFlNktBMk56Z01FRzNkZm1vdFFGWT0=.m3u8
 
 #EXTINF:0, tvg-id="Al-Hijrah" tvg-logo="alhijrah.png" tvg-name="TV Al-Hijrah"  group-title="Group N/A",TV Al-Hijrah
 http://d2f9tqsihrp4sc.cloudfront.net/livecf/smil:tvah_hypptv.smil/playlist.m3u8
