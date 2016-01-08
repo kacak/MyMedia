@@ -7,7 +7,7 @@ http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:r
 http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch002.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1452478714&myTokenPrefixhash=ezKd77-6s4TNbDxgLY2AEx3fvmk0qiayzmxkd_dl1z4=
 
 #EXTINF:0, tvg-id="TV 3" tvg-logo="tv3.png" tvg-name="TV3"  group-title="Malaysia",TV3
-http://tv3liveios-i.akamaihd.net/hls/live/205900/ios/tv3live/master.m3u8
+http://sg.layarku.tv/edge/149_323_live/chunklist_w154676771.m3u8
 
 #EXTINF:0, tvg-id="Astro Ria" tvg-logo="tv3.png" tvg-name="Ria"  group-title="Malaysia",Astro Ria
 http://penang.layarku.tv/edge/149_327_live/chunklist_w1095343200.m3u8
