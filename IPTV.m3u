@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:0, tvg-id="TV 1" tvg-logo="tv1.png" tvg-name="TV1"  group-title="Malaysia",TV1
-http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch001.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1452478664&myTokenPrefixhash=S99txbh2z3yv5ARwFT6rUZYNKd2CvpKRw3ruBKGl_fI=
+http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch001.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1453172991&myTokenPrefixhash=lArZGXPMR8tZU0ZVqvj_UMnhQ2DTqTjuv68_9rJwCcg=
 
 #EXTINF:0, tvg-id="TV 2" tvg-logo="tv2.png" tvg-name="TV2"  group-title="Malaysia",TV2
-http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch002.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1452478714&myTokenPrefixhash=ezKd77-6s4TNbDxgLY2AEx3fvmk0qiayzmxkd_dl1z4=
+http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch002.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1453173010&myTokenPrefixhash=GOZerL2ukx7ZPHauQ0rPvu0-_jYkA0t1GKW7pK-M-Ck=
 
 #EXTINF:0, tvg-id="TV 3" tvg-logo="tv3.png" tvg-name="TV3"  group-title="Malaysia",TV3
 http://sg.layarku.tv/edge/149_323_live/chunklist_w154676771.m3u8
@@ -28,10 +28,10 @@ http://8tvliveios-i.akamaihd.net/hls/live/205901/ios/8tvlive/master.m3u8
 http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master.m3u8
 
 #EXTINF:0, tvg-id="TVi" tvg-logo="tvi.png" tvg-name="TVi"  group-title="Malaysia",TVi
-http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch003.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1452478733&myTokenPrefixhash=LEoUuCI4vT9Qfa-_XoWVfb2iimd5FZOoE7ehfot525I=
+http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch003.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1453173028&myTokenPrefixhash=5ggTPyX4pQX-yphSr-89NdxzAT99hIB1tXV6HHnLJzo=
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="galaksi.png" tvg-name="MUZIK AKTIF"  group-title="Malaysia",MUZIK AKTIF
-http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch004.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1452478758&myTokenPrefixhash=1zcyJWaTXdLrfsxEwT4HP6t2NfeWizWWXofrrKSYPWU=
+http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch004.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1453173062&myTokenPrefixhash=z1FQ1WoILIPwjf7CeyoKLBCGuyyxFjTCigfn_J8PFic=
 
 #EXTINF:0, tvg-id="Al-Hijrah" tvg-logo="alhijrah.png" tvg-name="TV Al-Hijrah"  group-title="Group N/A",TV Al-Hijrah
 http://d2f9tqsihrp4sc.cloudfront.net/livecf/smil:tvah_hypptv.smil/playlist.m3u8
